@@ -22,3 +22,5 @@ PO Reader generic only; all work types plus Upwork side income; under 1 yr dev; 
 ## New tasks
 - T-008 Claude · Market Scout: Upwork/freelance scan: gigs for agent workflow setup, AI automation, document extraction, process documentation; pricing, how to build a first profile and portfolio.
 - T-009 Claude · Market Scout: re-rank targets for under-1-yr dev (AI ops, solutions, product owner, QA/eval roles in Costa Rica incl. local).
+- T-006 upgrade: review panel = 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs.
+- T-010 Claude · Market Scout: read career-ops modes/*.md and borrow the offer-scoring rubric (A-H blocks, 1-5 fit) into `jobs/scoring-rubric.md`. Read-only, no install.

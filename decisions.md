@@ -7,3 +7,5 @@
 - 2026-10-12 KEPT: Targets = full-time, contract/freelance, local Costa Rica on-site/hybrid, plus side income (Upwork) for money and experience.
 - 2026-10-12 KEPT: Hands-on software dev experience is under 1 year. Do not claim years of dev. Engineer roles needing 3+ yrs are out; aim at AI ops / solutions / product-owner / process roles and freelance.
 - 2026-10-12 KEPT: Credit Carlos as architect and director of agent workflows (designs rules, gates, decisions); agents wrote much of the code. Say it plainly, never imply solo coding.
+- 2026-10-12 KEPT: Rebuild the "7-reader hiring panel" ourselves as T-006 (ATS bot, hiring manager, 5 personas, then rewrite) using Claude helpers; no DM links, no third-party prompts. Rewrite may only use evidence-bank facts.
+- 2026-10-12 PARKED: career-ops (github.com/santifer/career-ops, MIT, local, never submits) as scanner/tracker. Overlaps the existing Codex Google Sheets tracker; install only in a throwaway folder after Carlos says yes.
