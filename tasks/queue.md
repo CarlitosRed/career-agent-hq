@@ -10,9 +10,15 @@
 | T-005 | Codex · Writer | Draft LinkedIn headline, About, Experience, Featured | T-004 |
 | T-006 | Claude · Truth Reviewer | Review CV and LinkedIn drafts | T-004, T-005 |
 
-## Questions for Carlos
-1. Put your current CV (any format) and LinkedIn URL/text in `raw/`.
-2. May the Advance PO Reader be described publicly (name, scope), or generically ("document-AI order intake system")? Smart Commerce approval is noted in your office state.
-3. Target: employee roles only, or freelance/contract too? Salary floor?
-4. Languages and location/time-zone limits.
-5. Years of hands-on software development you can honestly claim (decides senior vs mid roles).
+## Answered 2026-10-12 (see decisions.md)
+PO Reader generic only; all work types plus Upwork side income; under 1 yr dev; architect/director credit.
+
+## Still open
+1. Put current CV (any format) and LinkedIn text in `raw/`.
+2. Exact employers, titles, dates for the Varicent and Snowflake work (Codex could not verify).
+3. Salary floor and language level (English/Spanish).
+4. Which legacy tools (SQL, Python, Power BI, Salesforce, Workday...) were used professionally.
+
+## New tasks
+- T-008 Claude · Market Scout: Upwork/freelance scan: gigs for agent workflow setup, AI automation, document extraction, process documentation; pricing, how to build a first profile and portfolio.
+- T-009 Claude · Market Scout: re-rank targets for under-1-yr dev (AI ops, solutions, product owner, QA/eval roles in Costa Rica incl. local).
