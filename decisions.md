@@ -15,3 +15,4 @@
 - 2026-10-12 OPEN: interview format (answer was "yes" to a 3-way choice; asked again). Prior-art choices (install career-ops? Resume Matcher?) not yet asked.
 - 2026-10-12 KEPT (Carlos asked for my recommendation, took it): copy career-ops ideas, install nothing now. Revisit later: read its scan.mjs and copy only that scanner if rebuilding is costlier (MIT).
 - 2026-10-12 KEPT: generate CVs ourselves from the lake (Resume Matcher not installed; its ideas only).
+- 2026-10-12 KEPT: Interviews run one company at a time; round 1 = 5 to 8 open questions, then rounds 2, 3, 4 and so on go deeper as needed. Transcript saved verbatim to raw/interviews/, facts extracted into lake/companies/.
