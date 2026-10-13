@@ -13,3 +13,5 @@
 - 2026-10-12 KEPT: Helpers run as local scripts with cheap models (Haiku-class) reading only shortlisted results; stronger models only for drafts.
 - 2026-10-12 KEPT: Facts Carlos states but cannot prove are kept and marked "stated by Carlos"; proof can be added later. Levels: verified / stated / unproven.
 - 2026-10-12 OPEN: interview format (answer was "yes" to a 3-way choice; asked again). Prior-art choices (install career-ops? Resume Matcher?) not yet asked.
+- 2026-10-12 KEPT (Carlos asked for my recommendation, took it): copy career-ops ideas, install nothing now. Revisit later: read its scan.mjs and copy only that scanner if rebuilding is costlier (MIT).
+- 2026-10-12 KEPT: generate CVs ourselves from the lake (Resume Matcher not installed; its ideas only).
