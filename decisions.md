@@ -9,3 +9,7 @@
 - 2026-10-12 KEPT: Credit Carlos as architect and director of agent workflows (designs rules, gates, decisions); agents wrote much of the code. Say it plainly, never imply solo coding.
 - 2026-10-12 KEPT: Rebuild the "7-reader hiring panel" ourselves as T-006 (ATS bot, hiring manager, 5 personas, then rewrite) using Claude helpers; no DM links, no third-party prompts. Rewrite may only use evidence-bank facts.
 - 2026-10-12 PARKED: career-ops (github.com/santifer/career-ops, MIT, local, never submits) as scanner/tracker. Overlaps the existing Codex Google Sheets tracker; install only in a throwaway folder after Carlos says yes.
+- 2026-10-12 KEPT: Salary target for the full-time track is 1.6 million colones per month, gross (before taxes and deductions), or more.
+- 2026-10-12 KEPT: Helpers run as local scripts with cheap models (Haiku-class) reading only shortlisted results; stronger models only for drafts.
+- 2026-10-12 KEPT: Facts Carlos states but cannot prove are kept and marked "stated by Carlos"; proof can be added later. Levels: verified / stated / unproven.
+- 2026-10-12 OPEN: interview format (answer was "yes" to a 3-way choice; asked again). Prior-art choices (install career-ops? Resume Matcher?) not yet asked.
