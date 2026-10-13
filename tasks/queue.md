@@ -2,10 +2,10 @@
 
 | ID | Owner | Task | Needs |
 | --- | --- | --- | --- |
-| T-001 | Codex · Memory Miner | Mine Codex memory into `evidence/` | Carlos pastes launcher |
+| T-001 | Codex · Memory Miner | DONE 2026-10-12: 25 entries (8 verified project, 17 memory-only), audits/codex-memory-miner-2026-10-12.md | - |
 | T-002 | Claude · Market Scout | DONE 2026-10-12: jobs/market-scan-2026-10-12.md | - |
-| T-007 | Claude · Market Scout | Read full CodeRoad non-senior Agentic AI Engineer and Senior AI Product Owner descriptions | T-002 |
-| T-003 | Claude · Truth Reviewer | Verify top evidence against advance-po-reader repo (PR counts, gate, tiers) | T-001 |
+| T-007 | Claude · Market Scout | DONE 2026-10-12: market-scan section 6 | - |
+| T-003 | Claude · Truth Reviewer | Verify E-001..E-008 against advance-po-reader repo and decide attribution (Carlos vs agents) | next |
 | T-004 | Codex · Writer | Draft CV v1 (2 variants) from verified evidence | T-001, T-002, Carlos's current CV in `raw/` |
 | T-005 | Codex · Writer | Draft LinkedIn headline, About, Experience, Featured | T-004 |
 | T-006 | Claude · Truth Reviewer | Review CV and LinkedIn drafts | T-004, T-005 |

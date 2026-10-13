@@ -36,3 +36,14 @@ Costa Rica/LATAM aggregator listings (Jobgether, Himalayas, Wellfound, Remote Ro
 
 ## For Claudio
 - Add T-007: read full descriptions of the CodeRoad non-senior roles. Add question: how many years of hands-on software dev can Carlos honestly claim (decides senior vs mid)?
+
+## 6. T-007 result: CodeRoad descriptions read in full (employer pages, 2026-10-12)
+All three: 100% remote, LATAM-only, USD pay (amount not stated), advanced English mandatory, asks about US-client experience. CodeRoad is a nearshore staffing/services firm. No posting dates shown.
+
+| Role | Link | Asks for | Carlos fit (from Codex audit) |
+| --- | --- | --- | --- |
+| Agentic AI Engineer (mid) | [4406476009](https://job-boards.greenhouse.io/coderoad/jobs/4406476009) | 3+ yrs software dev, advanced Python, LangGraph/CrewAI/ADK, MCP, vector DB, AWS Bedrock, LangSmith-type evals | Gap: no evidence yet of framework, vector DB, Bedrock, or years of dev |
+| Agentic AI Engineer (mid-senior) | [4414020009](https://job-boards.greenhouse.io/coderoad/jobs/4414020009) | 5+ yrs Python, 2+ yrs LangGraph/LangChain agents, LangFuse, PromptFoo, M365 Agents SDK | Too far today |
+| Senior AI Product Owner | [4438474009](https://job-boards.greenhouse.io/coderoad/jobs/4438474009) | 4+ yrs PO/PM with shipped LLM apps (agents, RAG, document extraction), golden datasets, release sign-off, client workshops, Jira | Best match by content (doc extraction, evidence, review gates, sign-off); blocker is "4+ yrs PO/PM" which we cannot evidence yet |
+
+Recommendation: the Product Owner role is the best real target of the three; the mid Agentic AI Engineer is the stretch. Do not apply until Carlos confirms years and roles (queue questions 1 to 5). Frame the PO Reader as: owner of evaluation-and-sign-off process for a document-AI system, with measured accuracy marked "not measured".
