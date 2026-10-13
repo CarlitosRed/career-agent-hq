@@ -26,7 +26,7 @@ All 22 commits on main and every GitHub comment come from one shared account (Ca
 E-026 delivery scale: 41 PRs (21 merged, 16 closed, 4 open), 671 test functions, 4 CI workflows, tier labels on 19 PRs.
 
 ## Still unverified
-Time-to-build claim ("about 10 days") rests on PR dates from early October; confirm the first commit date with Carlos. No accuracy numbers exist and none may be claimed. Not checked: E-009 to E-025 (need Carlos).
+Time span verified: first commit 2026-10-02, first PR 2026-10-03, checked 2026-10-12. Use "under two weeks". No accuracy numbers exist and none may be claimed. Not checked: E-009 to E-025 (need Carlos).
 
 ## For Codex · Writer
 Add E-026 to evidence/INDEX.md (Codex owns the index). Use the four wording fixes above.
