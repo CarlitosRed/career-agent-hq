@@ -2,6 +2,8 @@
 
 Created 2026-10-12 by Claudio · Career PM. Keep to one screen. Only the PM writes this file.
 
+**2026-10-13 (Carlos):** this project is now one of the projects run on the reusable agent orchestration framework (private repo `CarlitosRed/agent-orchestration`). "Claudio · Career PM" is this project's Orchestrator in the framework's role naming (`agent-orchestration/docs/roles-and-names.md`); the name stays as-is here for now. This chat (rooted in this repo) is this project's own Orchestrator chat and does not edit the framework repo; it logs friction in this project's own notes for the Framework Orchestrator to read later. See `agent-orchestration/docs/multi-orchestrator-model.md`.
+
 ## Roles
 | Who | Job | Writes |
 | --- | --- | --- |
