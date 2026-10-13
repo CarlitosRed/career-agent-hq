@@ -1,0 +1,4 @@
+raw/
+*.pdf
+*.docx
+.env*
