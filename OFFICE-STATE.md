@@ -22,5 +22,5 @@ Market Scout feeds target titles and keywords into the Writer's brief.
 - Job tracker already running in Codex (Google Sheets, workbook in Codex memory). Do not duplicate it.
 
 ## Status (2026-10-12)
-- Scaffold done. Next: T-001 Codex evidence mining, T-002 Claude market scan (parallel).
+- Scaffold done. T-002 market scan done. Next: T-001 Codex evidence mining (Carlos pastes launcher), then T-007.
 - Open questions for Carlos: see `tasks/queue.md`.
