@@ -1,0 +1,64 @@
+{
+  "_about": "Retrofit translation (skills/retrofit-project, 2026-10-15, framework tag v0.3.0) of this project's existing, never-tooled rules (AGENTS.md rules 1-8, CONTEXT-RULES.md) into the framework's generic gate schema (tools/gate/gate.schema.md). DOCUMENTATION ONLY -- there is no tools/gate/*.py or any other enforcing script in this repo, no CI, and no prior pull request (confirmed: `git log --all` and `git branch -a` show only direct commits to `master`; `gh pr list` and `gh issue list` on CarlitosRed/career-agent-hq both return empty). Unlike advance-po-reader's retrofit, this does not translate a real enforcing config into a parallel one -- it is the first time this project's informal rules have been written in gate-schema shape at all, and nothing here changes how this repo is actually written to today.",
+  "_fields_needing_a_decision_before_this_could_go_live": [
+    "vendors.*.branch_prefixes are UNKNOWN as an established fact of this repo: it has never used branches before this retrofit's own PR. claude/ and codex/ below are carried over from advance-po-reader's and the framework's own convention for this first PR, not something Carlos has confirmed for career-agent-hq specifically.",
+    "The 2 tiers below restate AGENTS.md rule 4 (one writer per file) and rule 5 (author never reviews own work) as approval counts, which is the most literal mapping available -- but no PR has ever existed here to calibrate against, so treat this as a first draft pending Carlos's confirmation, not settled policy.",
+    "plan_go is false on every tier: no 'go' signal convention has ever existed in this project (AGENTS.md has no equivalent of a plan-lock step).",
+    "body_headings is empty: no PR body convention exists yet -- this retrofit's own PR is the first PR this repo has ever had.",
+    "required_checks is empty: there is no CI in this repo (no .github/workflows, no test suite). This project produces documents, not code."
+  ],
+  "schema_version": 1,
+  "repo": "CarlitosRed/career-agent-hq",
+  "base": "master",
+  "owner_signers": ["Carlos"],
+  "vendors": {
+    "anthropic": { "names": ["Claude"], "branch_prefixes": ["claude/"] },
+    "openai": { "names": ["Codex"], "branch_prefixes": ["codex/"] }
+  },
+  "legacy_signers": {
+    "Claudio": "anthropic",
+    "Claude": "anthropic",
+    "Codex": "openai"
+  },
+  "protected_paths": [
+    "AGENTS.md",
+    "CLAUDE.md",
+    "CONTEXT-RULES.md",
+    "OFFICE-STATE.md",
+    "decisions.md",
+    "profile/brief.md",
+    "tasks/*",
+    "_templates/*",
+    ".orchestration/*",
+    "RESUME-career-hq-orchestrator.md"
+  ],
+  "protected_tier": 2,
+  "required_checks": [],
+  "body_headings": [],
+  "tiers": [
+    {
+      "label": "tier-1",
+      "level": 1,
+      "name": "Own file (evidence, drafts, audits a role writes under rule 4's ownership)",
+      "approvals": 1,
+      "plan_go": false,
+      "owner_approval": false,
+      "cross_vendor": true,
+      "body_headings": false,
+      "allowed_paths": ["evidence/*", "cv/*", "linkedin/*", "jobs/*", "audits/*", "drafts/*", "lake/*", "lake/companies/*", "raw/*", "raw/interviews/*"],
+      "mergeable": true
+    },
+    {
+      "label": "tier-2",
+      "level": 2,
+      "name": "Shared/rule files (AGENTS.md rule 4's named files, plus .orchestration/)",
+      "approvals": 1,
+      "plan_go": false,
+      "owner_approval": true,
+      "cross_vendor": true,
+      "body_headings": false,
+      "allowed_paths": null,
+      "mergeable": true
+    }
+  ]
+}
