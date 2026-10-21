@@ -1,5 +1,5 @@
 # Evidence index
-Updated 2026-10-12 by Codex · Memory Miner.
+Updated 2026-10-12 by Codex · Memory Miner. E-026 and E-027 to E-039 added 2026-10-21 by Career Agent HQ Orchestrator (Claude).
 
 All rows point to one evidence entry. “ask Carlos” means the project details are not cleared for public use. Unverified entries are memory-only and are not ready for a CV or LinkedIn claim.
 
@@ -30,3 +30,17 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-023 | PostgreSQL experience claim | unverified | ask Carlos | PostgreSQL, SQL, databases |
 | E-024 | BRD and process discovery claim | unverified | ask Carlos | business requirements, process discovery |
 | E-025 | Visio experience claim | unverified | ask Carlos | Visio, process mapping |
+| E-026 | Delivery scale of the agent-run project | verified | yes (numbers only) | multi-agent orchestration, release governance, CI |
+| E-027 | Public governance framework for multi-vendor AI agents | verified | yes | agent governance, release governance |
+| E-028 | Carlos's exact role: Program Owner | stated | yes | decision-making, directing AI agents |
+| E-029 | Merge gate (tiers, exact-commit cross-vendor approval, scan) | verified | yes | merge gates, separation of duties |
+| E-030 | Offline test suites required in CI | verified | yes | testing, CI |
+| E-031 | Cross-vendor review found defects | verified | yes | code review, AI agent oversight |
+| E-032 | Review-relay tool | verified | yes | tooling, audit trail |
+| E-033 | Hygiene check and rule R29 | verified (effect unmeasured) | yes | policy-as-code, CI |
+| E-034 | Rules register and leak log | verified | yes | risk management, decision logging |
+| E-035 | Second-vendor audit, fixes merged within a day | verified / stated (11-item list) | yes | audit, remediation |
+| E-036 | Stale "permanent" tool failure re-tested | verified | yes | verification, evidence discipline |
+| E-037 | Flaky test found and fixed | verified | yes | testing, debugging |
+| E-038 | PR cannot loosen the rules it is judged by | verified | yes | CI security |
+| E-039 | Per-vendor GitHub accounts | verified / stated | yes | identity, audit trail |
