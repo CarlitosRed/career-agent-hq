@@ -1,11 +1,12 @@
 {
-  "_about": "Retrofit translation (skills/retrofit-project, 2026-10-15, framework tag v0.3.0) of this project's existing, never-tooled rules (AGENTS.md rules 1-8, CONTEXT-RULES.md) into the framework's generic gate schema (tools/gate/gate.schema.md). DOCUMENTATION ONLY -- there is no tools/gate/*.py or any other enforcing script in this repo, no CI, and no prior pull request (confirmed: `git log --all` and `git branch -a` show only direct commits to `master`; `gh pr list` and `gh issue list` on CarlitosRed/career-agent-hq both return empty). Unlike advance-po-reader's retrofit, this does not translate a real enforcing config into a parallel one -- it is the first time this project's informal rules have been written in gate-schema shape at all, and nothing here changes how this repo is actually written to today.",
+  "_about": "Retrofit translation (skills/retrofit-project, 2026-10-15, framework tag v0.3.0) of this project's existing, never-tooled rules (AGENTS.md rules 1-8, CONTEXT-RULES.md) into the framework's generic gate schema (tools/gate/gate.schema.md). DOCUMENTATION ONLY -- there is no tools/gate/*.py or any other enforcing script in this repo, no CI, and no prior pull request (confirmed: `git log --all` and `git branch -a` show only direct commits to `master`; `gh pr list` and `gh issue list` on CarlitosRed/career-agent-hq both return empty). Unlike advance-po-reader's retrofit, this does not translate a real enforcing config into a parallel one -- it is the first time this project's informal rules have been written in gate-schema shape at all, and nothing here changes how this repo is actually written to today. UPDATED 2026-10-22 (pin bump v0.3.0 -> v0.9.2): this PR is the first real tier-2 PR this project has had, wires templates/gate-pre-review.yml and templates/gate-audit.yml into .github/workflows/ for real, and is the first PR actually using the claude/ branch prefix below -- see the next field for what that resolves.",
   "_fields_needing_a_decision_before_this_could_go_live": [
-    "vendors.*.branch_prefixes are UNKNOWN as an established fact of this repo: it has never used branches before this retrofit's own PR. claude/ and codex/ below are carried over from advance-po-reader's and the framework's own convention for this first PR, not something Carlos has confirmed for career-agent-hq specifically.",
-    "The 2 tiers below restate AGENTS.md rule 4 (one writer per file) and rule 5 (author never reviews own work) as approval counts, which is the most literal mapping available -- but no PR has ever existed here to calibrate against, so treat this as a first draft pending Carlos's confirmation, not settled policy.",
+    "vendors.*.branch_prefixes: this PR (branch claude/upgrade-framework-v0-9-2-...) is the first real data point for claude/, carried over from advance-po-reader's and the framework's own convention since the 2026-10-15 retrofit. One PR is not yet an established convention; codex/ remains unconfirmed by any real PR.",
+    "The 2 tiers below restate AGENTS.md rule 4 (one writer per file) and rule 5 (author never reviews own work) as approval counts; this is still the first PR to calibrate against, so treat this as a first draft pending Carlos's confirmation, not settled policy.",
     "plan_go is false on every tier: no 'go' signal convention has ever existed in this project (AGENTS.md has no equivalent of a plan-lock step).",
-    "body_headings is empty: no PR body convention exists yet -- this retrofit's own PR is the first PR this repo has ever had.",
-    "required_checks is empty: there is no CI in this repo (no .github/workflows, no test suite). This project produces documents, not code."
+    "body_headings is empty: no PR body convention exists yet. This PR follows docs/change-proposals.md step 5's heading shape (Failure/Class/Fix/Proof/Affects/Rollback) voluntarily, as a candidate -- Carlos has not yet confirmed requiring it.",
+    "required_checks is empty: still no test suite (this project produces documents, not code), so this stays empty even though CI now exists here for the gate itself (gate-pre-review, gate-audit) -- required_checks is for a project's own test/build CI, not the gate's own workflows.",
+    "distinct_accounts / owner_logins / vendors.*.logins: NOT adopted in this PR. carlitosred-claude and carlitosred-codex were added as collaborators on this repo today (by the Program Owner, outside this PR), satisfying docs/vendor-accounts.md's account/collaborator prerequisite -- but this session has no verified gh sign-in as carlitosred-claude to actually post under that identity, and agent-orchestration's own history (#87/#88) treats this as its own dedicated, tested PR rather than something to bundle into a pin bump. Left for a follow-up PR once an identity is verified end-to-end."
   ],
   "schema_version": 1,
   "repo": "CarlitosRed/career-agent-hq",
@@ -22,7 +23,6 @@
   },
   "protected_paths": [
     "AGENTS.md",
-    "CLAUDE.md",
     "CONTEXT-RULES.md",
     "OFFICE-STATE.md",
     "decisions.md",
@@ -30,6 +30,7 @@
     "tasks/*",
     "_templates/*",
     ".orchestration/*",
+    ".github/*",
     "RESUME-career-hq-orchestrator.md"
   ],
   "protected_tier": 2,

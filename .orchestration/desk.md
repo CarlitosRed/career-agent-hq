@@ -2,9 +2,15 @@
 
 This project has no local development environment to describe: no services,
 ports, or app to launch, and no interpreter version it depends on (confirmed:
-no `tools/`, no `.github/workflows/`, no test suite; `evidence/`, `cv/`,
-`linkedin/`, `jobs/`, `lake/`, `raw/`, `tasks/`, `audits/`, `drafts/` are all
-plain Markdown). career-agent-hq produces documents, not running code.
+no `tools/`, no test suite; `evidence/`, `cv/`, `linkedin/`, `jobs/`, `lake/`,
+`raw/`, `tasks/`, `audits/`, `drafts/` are all plain Markdown). career-agent-hq
+produces documents, not running code.
+
+Since the `v0.9.2` pin (2026-10-22), `.github/workflows/` does exist -- but it
+holds only the framework's own `gate-pre-review.yml` and `gate-audit.yml`
+(GitHub-hosted `ubuntu-latest`, standard library Python only), which enforce
+`.orchestration/gate.json` on every PR and push. That is not a desk fact about
+this machine or an app to launch; it runs on GitHub's own runners, not here.
 
 The closest things to desk facts are the external, read-only sources this
 project reads from, already named in `OFFICE-STATE.md`'s "Where things live"

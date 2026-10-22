@@ -13,3 +13,4 @@ Read in this order: `OFFICE-STATE.md`, `CONTEXT-RULES.md`, `profile/brief.md` (i
 6. **No applying, no sending.** Agents never submit applications, send messages or edit LinkedIn directly. They produce drafts; Carlos presses the button.
 7. **Never guess.** Unknown stays `Unknown`. Report what you checked vs what you were told.
 8. Sign every file with the chat name and date.
+9. **Explain with visuals.** When explaining findings, code paths, comparisons, plans or task handoffs to Carlos, draw an inline visual (diagram or widget) next to the text rather than relying on prose alone (Carlos's own global preference, carried in here since a project CLAUDE.md would otherwise shadow this file for Claude Code specifically -- see `.orchestration/leaks.md` 2026-10-22 and agent-orchestration's hygiene check for why).
