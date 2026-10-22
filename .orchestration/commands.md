@@ -1,12 +1,18 @@
 # Commands
 
-UNKNOWN: this project has no commands to run. There is no test suite, no CI,
-no scan tool, and no app to launch (confirmed: no `tools/`, no
-`.github/workflows/`; `.gitignore` only excludes `raw/`, `*.pdf`, `*.docx`,
-`.env*`). `adapters/README.md` describes this file as "the exact commands for
-tests, scan and the app launcher" -- none of those exist here, and inventing
+UNKNOWN: this project has no commands to run. There is no test suite, no scan
+tool for its own content, and no app to launch (confirmed: no `tools/`;
+`.gitignore` only excludes `raw/`, `*.pdf`, `*.docx`, `.env*`).
+`adapters/README.md` describes this file as "the exact commands for tests,
+scan and the app launcher" -- none of those exist here, and inventing
 placeholder commands would misrepresent a documents-only project as having
 code to verify.
+
+Since the `v0.9.2` pin (2026-10-22), `.github/workflows/gate-pre-review.yml`
+and `gate-audit.yml` do run in CI -- but they check the gate itself (PR tiers,
+approvals, owner sign-off, protected paths), not this project's content, and
+run from the pinned framework clone (`python tools/gate/gate.py ...`), not a
+command of this project's own.
 
 The nearest equivalent process is AGENTS.md's read order and `_templates/`
 (`evidence-entry.md`, `task-card.md`) -- but those are file conventions, not
