@@ -28,5 +28,15 @@ All lines `stated` (interview 2026-10-12, raw/interviews/2026-10-12-amadeus-roun
 ## Why this matters for agentic work (PM note, not a fact about Carlos)
 Alexandria is a human-run knowledge base: capture, structure, index, keep current. That is the same job as building context for AI agents and RAG. Strongest bridge from his history to agentic engineering and to AI ops/knowledge roles. Never claim he built RAG or AI there.
 
-## Round 2 questions (open)
-Titles; exact dates; number of articles/pages and users of Alexandria; any before/after numbers on response time or backlog; who approved the SME-groups idea and whether it stayed after he left; how many people trained; Salesforce certifications (none stated); formulas, flows or scripts touched; whether the template tool was Salesforce's own or a product feature.
+## Round 2 (interview 2026-10-25, raw/interviews/2026-10-25-amadeus-round2.md), all `stated`
+- Titles: "Technical Support Engineer, something like that", 2021 to 2022; there he became SME on the product, trained people, and saw the possibility of Alexandria and proposed it. Then moved to a data analyst position (exact title unknown) while keeping some email backlog.
+- Data analyst work: analysed case data (what the issues were, how one person fixed a case, why that was faster than another's) to find insights, and documented findings alongside for Alexandria. Tools used for the analysis: Unknown (Excel is not stated for this role).
+- Alexandria: no page or user counts. Claim: it became the team's knowledge tool and covered all known issues, so new hires mostly did not need to escalate or ask for help.
+- No before/after numbers for response time or backlog (too long ago). Do not put numbers on a CV.
+- SME-groups idea approved by his manager; it stayed after he left.
+- Trained about 4 people (2 waves of 2).
+- Salesforce: worked with formulas, objects, flows, user access and roles. The template tool was Salesforce or built on Salesforce. Certifications: none stated.
+- Dates fix: round 1 said about 2021 to 2023; round 2 says 2021 to 2022 for the support engineer role, with the analyst role after. Overall end date still Unknown.
+
+## Still open
+Exact analyst title and dates; end date at Amadeus; whether Alexandria artifacts or screenshots survive (would make claims verifiable); tools used for the case analysis.
