@@ -1,5 +1,5 @@
 # Sykes (now Foundever): call center, first job
-Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-sykes-round1.md). All `stated`, none verified. Public-safe: ask Carlos (client name Capital One is a customer of the employer; do not name on public profiles without his OK).
+Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-sykes-round1.md). All `stated`, none verified. Public-safe: ask Carlos (the employer's client is a US bank; its name is kept out of this repo per AGENTS.md rule 3, and stays in the git-ignored raw/ transcripts).
 
 - [stated] First job of his career, in a standard call center; company now named Foundever.
 - [stated] Approx. 2020, about one year; exact dates unknown (to fill later). Started during the COVID pandemic.
@@ -21,11 +21,12 @@ Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-syk
 
 ## Round 3 additions (interview 2026-10-26, raw/interviews/2026-10-26-sykes-round3.md), all stated
 - [stated] Title: SME. He became SME about 4 months into the job; exact months and end date not remembered (still Unknown).
-- [stated] His manager was training him to replace the manager. Through that, he went through the entire process of escalating, talking to and later terminating someone for performance. Resolves the round-2 "fire someone" line as a performance-termination process, not a slip. Who made the final decision (him or the manager) was not said: Unknown. Do not write "fired someone"; write "took part in a performance escalation process that ended in a termination".
+- [stated] His manager was training him to replace the manager. Through that, he went through the entire process of escalating, talking to and later terminating someone for performance. Resolves the round-2 "fire someone" line as a performance-termination process, not a slip. Who made the final decision (him or the manager) was not said: Unknown.
+- Wording note (not a fact): do not write "fired someone"; write "took part in a performance escalation process that ended in a termination".
 - [stated] One case: while his manager was on leave he reviewed the team and found that some agents were escalating calls because of knowledge gaps. He reported it to his manager, who then applied measures (which ones: not said).
 - [stated] Recognition or measures: none, and nothing saved (no review, email, certificate or screenshot).
 - [stated] The team-lead role offered to him would have covered the whole team's needs and KPIs.
 - [stated] What he wants a hiring manager to hear: multitasking, proven English ability, taking on challenges, young but ambitious.
 
 ## Still open for Sykes
-Exact start and end dates, which measures his manager applied after the knowledge-gap finding, who decided the termination, the KPIs involved, what the "reason for leaving beyond the Amadeus offer" was. Public-safe: ask Carlos (unchanged).
+Exact start and end dates, which measures his manager applied after the knowledge-gap finding, who decided the termination, the KPIs involved, what the "reason for leaving beyond the Amadeus offer" was. Public-safe: still ask Carlos.
