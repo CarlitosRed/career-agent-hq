@@ -9,7 +9,7 @@ Evidence entries E-027 to E-039 in `evidence/` (index updated). One claim each, 
 
 | ID | Claim | Level |
 | --- | --- | --- |
-| E-027 | Public framework, 29 rules, 29 leak rows, 10 tags, 85 merged PRs | verified |
+| E-027 | Public framework, 29 rules, 29 leak rows, 11 tags, 97 merged PRs as of 2026-10-26 | verified |
 | E-028 | Carlos's exact role: Program Owner (goals, decisions, approval lines) | **stated** |
 | E-029 | Merge gate | verified |
 | E-030 | 10 offline suites, 509 tests pass (I ran them) | verified |

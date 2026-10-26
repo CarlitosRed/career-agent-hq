@@ -1,6 +1,6 @@
 # E-038 A pull request cannot loosen the rules it is judged by
 - level: verified
-- public-safe: yes
+- public-safe: yes (Carlos confirmed public-safe 2026-10-26)
 - skill tags: CI security, supply-chain trust, GitHub Actions, policy-as-code
 - what happened: The copied workflow templates read the framework version and gate config from the PR head, so a PR could judge itself by its own edits, and the pre-review copy missed label and body edits (leak L20). PR #78 (merged 2026-10-20) changed them to read pin and config from the trusted base commit and to rerun on label and body edits. The framework repo's own live workflows already did this.
 - source: https://github.com/CarlitosRed/agent-orchestration .orchestration/leaks.md L20; PR #78 "Workflow templates: pin and config from the trusted base; rerun on label and body edits"; templates/gate-pre-review.yml, templates/gate-audit.yml

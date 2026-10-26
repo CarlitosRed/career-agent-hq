@@ -1,5 +1,5 @@
 # Evidence index
-Updated 2026-10-12 by Codex · Memory Miner. E-026 and E-027 to E-039 added 2026-10-21 by Career Agent HQ Orchestrator (Claude).
+Updated 2026-10-12 by Codex · Memory Miner. E-027 to E-039 added 2026-10-21 by Career Agent HQ Orchestrator (Claude).
 
 All rows point to one evidence entry. “ask Carlos” means the project details are not cleared for public use. Unverified entries are memory-only and are not ready for a CV or LinkedIn claim.
 
