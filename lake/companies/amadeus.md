@@ -38,5 +38,10 @@ Alexandria is a human-run knowledge base: capture, structure, index, keep curren
 - Salesforce: worked with formulas, objects, flows, user access and roles. The template tool was Salesforce or built on Salesforce. Certifications: none stated.
 - Dates fix: round 1 said about 2021 to 2023; round 2 says 2021 to 2022 for the support engineer role, with the analyst role after. Overall end date still Unknown.
 
+## Round 2 follow-up (2026-10-25), all `stated`
+- Data analyst title (exactly "Data Analyst"), 2022 to 2023, months unknown. Left Amadeus around mid-2023.
+- Analysis tools: cases tracked in Salesforce; for analysis he automated with Python scripts, Markdown, and R for diagrams. (Corrects the "Excel not stated" note; this is the first Python/R use at work. Keeps the "under 1 year of dev" decision intact: scripting for analysis, not software engineering.)
+- Alexandria: no files or screenshots survive. Carlos says it is verifiable; how (a former manager or colleague who can confirm?) is Unknown. Level stays `stated` until that is named.
+
 ## Still open
-Exact analyst title and dates; end date at Amadeus; whether Alexandria artifacts or screenshots survive (would make claims verifiable); tools used for the case analysis.
+How Alexandria can be verified (a reference person's name stays with Carlos, not in the repo); exact months at Amadeus.
