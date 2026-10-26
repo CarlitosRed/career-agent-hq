@@ -21,3 +21,4 @@
 - 2026-10-26 KEPT: English level is B2 (Carlos, stated; recorded as E-040). Carlos asked for "verified"; it stays `stated` until a test or certificate exists (rule 2).
 - 2026-10-26 KEPT: Salary target restated by Carlos: ideally above 1.6 million colones per month, or higher (same target as the 2026-10-12 row). T-009 re-ranking is unblocked.
 - 2026-10-26 KEPT: No LinkedIn profile exists yet. The Writer builds it from scratch as drafts once the interview rounds define who Carlos is; Carlos creates the account and presses every button (rule 6). Current CV comes from Carlos later.
+- 2026-10-26 KEPT: Spanish is fluent (Carlos, stated; recorded as E-041). Do not write "native" or a CEFR level for Spanish unless he says so.

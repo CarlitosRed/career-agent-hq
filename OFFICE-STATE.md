@@ -26,5 +26,5 @@ Market Scout feeds target titles and keywords into the Writer's brief.
 ## Status (2026-10-26)
 - Done: scaffold, T-001, T-002, T-003, T-007, T-008, T-010, T-011. Framework pin v0.9.2 with gate CI (#3). Interview lake holds Sykes r1-2, Amadeus r1-2, VMware r1 (Amadeus r2 and VMware r1 added in #4). Evidence E-027 to E-039 on the framework work, merged in #2; Carlos's public-safe confirmation of 2026-10-26 is recorded in the entries and in `decisions.md`.
 - Gate is in single-vendor mode (Codex lapsed, #5): every PR needs a separate Claude subagent review plus Carlos's typed approval, then merge with the framework's `gate.py`. Revert `cross_vendor` to true when Codex returns.
-- Not started: T-004 CV draft, T-005 LinkedIn draft (from scratch, after the interview rounds), T-006 review panel, T-009 re-rank (unblocked). Answered 2026-10-26: English B2 (E-040, stated), salary ideally above 1.6M colones/month.
-- Open questions for Carlos: see `tasks/queue.md` (current CV later, employers and dates, Spanish level, legacy tools).
+- Not started: T-004 CV draft, T-005 LinkedIn draft (from scratch, after the interview rounds), T-006 review panel, T-009 re-rank (unblocked). Answered 2026-10-26: English B2 (E-040) and Spanish fluent (E-041), both stated; salary ideally above 1.6M colones/month.
+- Open questions for Carlos: see `tasks/queue.md` (current CV later, employers and dates, legacy tools).
