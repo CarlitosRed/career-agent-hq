@@ -19,5 +19,13 @@ Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-syk
 - [stated] Nothing he improved or fixed: phone-after-phone work, never the same customer twice.
 - [stated] Tools: Salesforce to track open tickets (at the beginning), Amazon Connect for calls, and tracking his own time. Links to evidence entry E-015 (Salesforce, unproven): now stated as ticket-tracking use only, not admin or process-ops work.
 
+## Round 3 additions (interview 2026-10-26, raw/interviews/2026-10-26-sykes-round3.md), all stated
+- [stated] Title: SME. He became SME about 4 months into the job; exact months and end date not remembered (still Unknown).
+- [stated] His manager was training him to replace the manager. Through that, he went through the entire process of escalating, talking to and later terminating someone for performance. Resolves the round-2 "fire someone" line as a performance-termination process, not a slip. Who made the final decision (him or the manager) was not said: Unknown. Do not write "fired someone"; write "took part in a performance escalation process that ended in a termination".
+- [stated] One case: while his manager was on leave he reviewed the team and found that some agents were escalating calls because of knowledge gaps. He reported it to his manager, who then applied measures (which ones: not said).
+- [stated] Recognition or measures: none, and nothing saved (no review, email, certificate or screenshot).
+- [stated] The team-lead role offered to him would have covered the whole team's needs and KPIs.
+- [stated] What he wants a hiring manager to hear: multitasking, proven English ability, taking on challenges, young but ambitious.
+
 ## Still open for Sykes
-Exact SME title, dates, whether the "fire someone" line means what it sounds like, reason for leaving beyond the Amadeus offer.
+Exact start and end dates, which measures his manager applied after the knowledge-gap finding, who decided the termination, the KPIs involved, what the "reason for leaving beyond the Amadeus offer" was. Public-safe: ask Carlos (unchanged).
