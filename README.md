@@ -1,6 +1,6 @@
 # Career Agent HQ
 
-Private project (not for GitHub public). Improves Carlos's CV and LinkedIn and finds agentic-engineering roles, using the same office model as `advance-po-reader`.
+Public repository (made visible by default; see `audits/public-exposure-audit-2026-10-26.md` for what it exposes). Improves Carlos's CV and LinkedIn and finds agentic-engineering roles, using the same office model as `advance-po-reader`.
 
 ```
 career-agent-hq/
