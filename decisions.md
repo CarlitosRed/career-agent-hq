@@ -16,3 +16,5 @@
 - 2026-10-12 KEPT (Carlos asked for my recommendation, took it): copy career-ops ideas, install nothing now. Revisit later: read its scan.mjs and copy only that scanner if rebuilding is costlier (MIT).
 - 2026-10-12 KEPT: generate CVs ourselves from the lake (Resume Matcher not installed; its ideas only).
 - 2026-10-12 KEPT: Interviews run one company at a time; round 1 = 5 to 8 open questions, then rounds 2, 3, 4 and so on go deeper as needed. Transcript saved verbatim to raw/interviews/, facts extracted into lake/companies/.
+- 2026-10-26 KEPT: Evidence E-027 to E-039 (agent-orchestration framework work) are public-safe; Carlos: "fine for it to be public". The framework repo itself has been public since 2026-10-16. PO Reader stays generic only.
+- 2026-10-26 KEPT: CV bullets for framework work use director wording ("Directed agents to..."), never "built/ran/kept" alone, per the 2026-10-12 architect-and-director decision. Figures with dates ("as of"); re-count before quoting.

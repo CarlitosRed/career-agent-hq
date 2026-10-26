@@ -13,7 +13,7 @@
 ## Answered 2026-10-12 (see decisions.md)
 PO Reader generic only; all work types plus Upwork side income; under 1 yr dev; architect/director credit.
 
-## Still open
+## Still open (re-checked 2026-10-26: none answered yet, `raw/` has only the vision dump and interviews)
 1. Put current CV (any format) and LinkedIn text in `raw/`.
 2. Exact employers, titles, dates for the Varicent and Snowflake work (Codex could not verify).
 3. Salary floor and language level (English/Spanish).
@@ -24,3 +24,5 @@ PO Reader generic only; all work types plus Upwork side income; under 1 yr dev; 
 - T-009 next: re-rank targets with scoring-rubric (needs Carlos: salary floor, English level)
 - T-006 upgrade: review panel = 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs.
 - T-010 DONE: jobs/scoring-rubric.md
+- T-011 DONE 2026-10-26: evidence E-027 to E-039 (framework work), reviewed by two separate Claude subagents, merged as #2.
+- T-004 to T-006 stay blocked until item 1 above (current CV in `raw/`) and item 2 (employers and dates) are answered.
