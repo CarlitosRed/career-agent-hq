@@ -44,13 +44,13 @@ Alexandria is a human-run knowledge base: capture, structure, index, keep curren
 - Alexandria: no files or screenshots survive. Carlos says it is verifiable; how (a former manager or colleague who can confirm?) is Unknown. Level stays `stated` until that is named.
 
 ## Round 3 (interview 2026-10-26, raw/interviews/2026-10-26-amadeus-round3.md), all `stated`
-- [stated] Who could confirm Alexandria: a manager from Amadeus's airport IT division saw his work and offered him a role in that division. He turned it down because of the VMware offer. That manager's name stays with Carlos, not in the repo. Whether other teams or later hires kept using Alexandria after he left: not answered, Unknown.
+- [stated] Who could confirm Alexandria: an IT division manager at Amadeus saw his work and offered him a role in that division. He turned it down because of the VMware offer. That manager's name stays with Carlos, not in the repo. Whether other teams or later hires kept using Alexandria after he left: not answered, Unknown.
 - [stated] R scripts: he defaulted to R for diagrams because there was no data diagramming tool. What data went in, what came out, and time saved versus by hand: not given, Unknown.
 - [stated] Case analysis finding: some team members were better at solving certain case types than others. Instead of assigning cases equally, he suggested a ratio of cases based on skills, so each agent gets more of the case types they are good at, to improve efficiency. No numbers. Probably the same idea as the SME groups from round 2 (approved by his manager); not confirmed.
 - [stated] Client calls: mostly personal and VIP clients, at most about 1 hour (corrects round 1's "1h40"), to review the report configurations the client had set up.
 - [stated] Alexandria upkeep: documenting new issues became a team policy; the person who found an issue wrote the review. He was not involved in what happened when nobody wrote one: Unknown.
-- [stated] Time at Amadeus: about one year in support and about one year as Data Analyst; months not known. Overall about 2 years, 2021 to mid-2023.
-- [stated] Reasons for leaving, besides the VMware offer: wanted a change; time for lunch and breaks tracked through Amazon Connect; little to no flexibility to work from another country while travelling; pay not good. Do not use these as negatives about the employer on a CV or LinkedIn. What he disliked about the analyst role specifically: not answered, Unknown.
+- [stated] Time at Amadeus: about one year in support and about one year as Data Analyst; months not known. Overall about 2 years (approx. 2021 to 2023, per round 1).
+- [stated] Reasons for leaving besides the VMware offer: he wanted a change, and flexibility to work from another country while travelling matters to him. His other reasons are in the git-ignored transcript only. What he disliked about the analyst role specifically: not answered, Unknown.
 - Round 3 question 6 (Salesforce skill he is most confident in today) was not answered; Carlos asked for the question to be explained.
 
 ## Still open
