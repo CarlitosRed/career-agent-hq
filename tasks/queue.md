@@ -21,9 +21,9 @@ PO Reader generic only; all work types plus Upwork side income; under 1 yr dev; 
 
 ## New tasks
 - T-008 DONE: jobs/upwork-scan-2026-10-12.md
-- T-009 next (unblocked 2026-10-26): re-rank targets with scoring-rubric; floor 1.6M colones/month, English B2
+- T-009 next (unblocked 2026-10-26): re-rank targets with scoring-rubric; target ideally above 1.6M colones/month, English B2
 - T-006 upgrade: review panel = 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs.
 - T-010 DONE: jobs/scoring-rubric.md
 - T-011 DONE 2026-10-26: evidence E-027 to E-039 (framework work), reviewed by two separate Claude subagents (verdicts relayed in the PR #2 comments), merged as #2.
 - T-005 reframed 2026-10-26: build the LinkedIn profile from scratch (no existing profile); starts after the interview rounds are done and Carlos says the "who I am" picture is ready. Drafts only; Carlos creates and edits the profile himself.
-- T-004 to T-006 stay blocked until item 1 above (current CV in `raw/`) and item 2 are answered: the Varicent and Snowflake employers and dates are still unverified, and the Amadeus, VMware and Sykes dates in the lake are `stated`, not documented.
+- T-004 and T-006 (CV draft and its review) stay blocked until item 1 above (current CV in `raw/`) and item 2 are answered: the Varicent and Snowflake employers and dates are still unverified, and the Amadeus, VMware and Sykes dates in the lake are `stated`, not documented.
