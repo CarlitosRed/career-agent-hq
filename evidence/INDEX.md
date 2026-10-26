@@ -1,5 +1,5 @@
 # Evidence index
-Updated 2026-10-12 by Codex · Memory Miner. E-027 to E-039 added 2026-10-21 by Career Agent HQ Orchestrator (Claude).
+Updated 2026-10-12 by Codex · Memory Miner. E-027 to E-039 added 2026-10-21 and E-040 added 2026-10-26 by Career Agent HQ Orchestrator (Claude).
 
 All rows point to one evidence entry. “ask Carlos” means the project details are not cleared for public use. Unverified entries are memory-only and are not ready for a CV or LinkedIn claim.
 
@@ -44,3 +44,4 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-037 | Flaky test found and fixed | verified | yes | testing, debugging |
 | E-038 | PR cannot loosen the rules it is judged by | verified | yes | CI security |
 | E-039 | Per-vendor GitHub accounts | verified / stated | yes | identity, audit trail |
+| E-040 | English level B2 | stated | yes | English, communication |
