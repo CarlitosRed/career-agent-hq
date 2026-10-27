@@ -8,8 +8,8 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-001 | Agent worktree orchestration | verified | ask Carlos | multi-agent orchestration, worktrees, branches, roles |
 | E-002 | Tiered merge gate and approvals | verified | ask Carlos | merge gate, tiered approvals, GitHub |
 | E-003 | Cross-vendor independent review | verified | ask Carlos | cross-vendor review, exact-head review |
-| E-004 | Prompt checklist and quality gate | verified | ask Carlos | prompt engineering, task design, verification |
-| E-005 | Evidence-preserving document AI | verified | ask Carlos | document AI, evidence preservation, structured extraction |
+| E-004 | Prompt checklist and quality gate | verified | yes | prompt engineering, task design, verification |
+| E-005 | Evidence-preserving document AI | verified | yes | document AI, evidence preservation, structured extraction |
 | E-006 | Fictional and offline safety boundaries | verified | ask Carlos | offline testing, synthetic data, privacy |
 | E-007 | CI verification lane | verified | ask Carlos | CI, GitHub Actions, PostgreSQL |
 | E-008 | Windows demo tooling | verified | ask Carlos | Windows, PowerShell, Python, PostgreSQL |

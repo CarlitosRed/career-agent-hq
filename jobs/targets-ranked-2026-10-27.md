@@ -1,6 +1,8 @@
 # Targets ranked: T-009 re-rank (2026-10-27)
 Claude · Market Scout, 2026-10-27. Supersedes the "best target" calls in `market-scan-2026-10-12.md` section 6 where they conflict (see Surprises).
 
+**Update 2026-10-27 (Carlos, after this file was written):** English level is no longer a skip gate (decisions.md 2026-10-27; rubric gate 2 changed). Wherever this file says SKIP because a posting asks C1/C2/native English (CodeRoad Senior AI Product Owner, Entrepreneur Cooperative), read it as a soft flag of minus 0.25 and not a skip. CodeRoad still fails the **years** hard stop (4+ yrs of product ownership), so it stays low; the Entrepreneur Cooperative role needs a live check and pay comparison before it moves. Scores in the table were not recomputed for this change.
+
 How to read this file
 - **Checked live** = I opened the employer's own page (WebFetch, which returns a small-model summary of the page, so wording is paraphrased unless in quotes). **Reported** = search snippet or aggregator, not opened on the employer's side. **Inferred** = my judgement from patterns, no posting behind it.
 - Scores follow `jobs/scoring-rubric.md` (archetype 30%, evidence 25%, location and terms 15%, legitimacy 15%, growth 15%; soft red flag minus 0.5). A role TYPE with no live posting is scored on typical content and its legitimacy is capped at 2, because rubric gate 1 needs a live employer page. Type scores are provisional until a posting exists.
@@ -14,7 +16,7 @@ How to read this file
 Score (1-5)   0        1        2        3        4        5
  1 AI ops / automation specialist       3.85 |#######################|  CONSIDER (type, no live posting)
  2 Agent freelance / workflow setup     3.83 |#######################|  CONSIDER (type; Upwork page blocked)
- 3 AI governance / program ownership    3.50 |#####################|    CONSIDER (type, nothing found)
+ 3 AI governance / program ownership    3.53 |#####################|    CONSIDER (type, nothing found)
  4 AI evaluation analyst (Gramian x2)   3.43 |####################|     CONSIDER (live page, status unconfirmed)
  5 Snowflake-partner associate consult  3.25 |###################|      CONSIDER when a posting is live
  6 Implementation consultant (Varicent) 3.15 |###################|      CONSIDER when a posting is live
@@ -29,7 +31,7 @@ Colour key for the table below: green = go, amber = conditional, red = skip/gate
 | --- | --- | --- | --- | --- |
 | 1 | AI operations / automation specialist | 3.85 | none (one aggregator lead, unopened) | AMBER consider |
 | 2 | Agent freelance / AI workflow setup | 3.83 | none (Upwork returned 403) | AMBER consider |
-| 3 | AI governance / program-owner roles | 3.50 | none found | AMBER consider |
+| 3 | AI governance / program-owner roles | 3.53 | none found | AMBER consider |
 | 4 | AI evaluation / agent QA analyst | 3.43 | Gramian x2, page opened, no date | AMBER consider |
 | 5 | Snowflake-partner associate consultant | 3.25 | none open (old postings expired) | AMBER watch |
 | 6 | SaaS implementation / business consultant | 3.15 | none open at Varicent in Costa Rica | AMBER watch |
@@ -77,7 +79,7 @@ Scores: archetype 5, evidence 3, location/terms 3 (no gate, but income unproven 
 
 Gaps: no finished client project, no reviews, no public portfolio, low-code tools. Verdict: **CONSIDER**, as the parallel track the 2026-10-12 Upwork scan already recommends. It is the only type where years of dev and English level are not gates. Income claim: Unknown until 3 to 5 gigs close.
 
-## 3. AI governance / program-owner / delivery-for-AI-teams (score 3.50, type)
+## 3. AI governance / program-owner / delivery-for-AI-teams (score 3.53, type)
 Status: **inferred**. No posting for this exact title found open to Costa Rica today. It maps Carlos's strongest verified material (E-026..E-039: public governance framework, merge gate, audits). Keep as a positioning target and as the headline for LinkedIn and CV, and watch for "AI program manager", "AI delivery lead", "AI risk/controls analyst" titles.
 Scores: archetype 4, evidence 4.5, location/terms 2.5 (unknown), legitimacy 1.5 (nothing found), growth 4.
 
@@ -130,7 +132,7 @@ Scores for the type: archetype 3, evidence 4.5, location/terms 3, legitimacy 2 (
 
 | Requirement (typical) | Evidence | Strength |
 | --- | --- | --- |
-| Gather client requirements, demo to confirm | E-048 (stated), E-024 BRD (index: unverified) | Strong, stated |
+| Gather client requirements, demo to confirm | E-048 (stated), E-024 BRD (index: unverified) | Medium, stated |
 | SQL and ETL/ELT workflows | E-048, E-011 | Medium |
 | Weekly client and internal meetings | E-048 | Medium |
 | Implementation tool expertise (Varicent Designer) | E-022 (index: unverified, lake: stated) | Medium, product name unknown |
@@ -212,7 +214,7 @@ CodeRoad's board (29 roles, checked live) is the only employer board I found wit
 5. **Open question for Carlos:** is a 10-week LATAM-only hourly contract acceptable while seeking the full-time role, and what hourly rate equals the 1.6M colones/month floor for him?
 
 ## For Claudio
-- Update index rows for E-009 to E-025 against the lake notes; add a decision on whether C1+ English roles are permanently out until a test result exists.
+- Update index rows for E-009 to E-025 against the lake notes; (Decision made 2026-10-27: C1+ English is a soft flag, not a skip.)
 - Add T-011 (re-run, 2 weeks) and a task for the portfolio sample.
 
 Claude · Market Scout, 2026-10-27

@@ -1,6 +1,6 @@
 # E-004 Prompt checklist and quality gate
 - level: verified
-- public-safe: ask Carlos
+- public-safe: yes (Carlos cleared it 2026-10-27; PO Reader stays generic only)
 - skill tags: prompt engineering, task design, verification planning, Codex, Claude
 - what happened: The PM context rules attribute a prompt-quality requirement to Carlos. The checklist requires goal/context/scope/done-when, role and effort, executable verification, and a capped return format. The playbook records that some earlier prompts exceeded its target length and says the templates were not tested against a live model; no performance gain is claimed.
 - source: C:\Users\carlo\dev\project-notes\CONTEXT-RULES.md rule 16; _templates\prompt-checklist.md; drafts\prompting-playbook-2026-10-07.md

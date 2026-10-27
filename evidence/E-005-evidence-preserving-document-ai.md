@@ -1,6 +1,6 @@
 # E-005 Evidence-preserving document AI
 - level: verified
-- public-safe: ask Carlos
+- public-safe: yes (Carlos cleared it 2026-10-27; PO Reader stays generic only)
 - skill tags: document AI, evidence preservation, structured extraction, human review, auditability
 - what happened: The current project contract keeps provider observations immutable, represents uncertainty, stores deterministic parses separately, and binds source evidence to observations. Candidate retrieval is tenant/vendor scoped and returns suggestions that require human approval; review events are stored separately. No extraction-accuracy claim is supported here.
 - source: C:\Users\carlo\dev\advance-po-reader\PROJECT_GOAL.md; README.md; backend\contracts.py:1, 28, 92, 273-289; backend\catalog.py:1-4, 86, 147-157, 225-240; backend\app.py:407-421
