@@ -1,6 +1,6 @@
 # E-050 Amadeus team knowledge base (Alexandria)
 - level: stated (Carlos, interviews 2026-10-12 and 2026-10-25; nothing survives, no files)
-- public-safe: ask Carlos (Amadeus is an employer on his CV; use the generic name "team knowledge base", not the internal name or product)
+- public-safe: yes (Carlos 2026-10-27: "it's ok for Amadeus on the CV"); use the generic name "team knowledge base", not the internal name or the product
 - skill tags: knowledge management, documentation, process improvement, training
 - what happened: Built and kept current a team knowledge base (OneNote and SharePoint, indexed like a documentation site) after the team inherited a product with no documentation. Weekly sessions to capture new issues. Proposed splitting support into subject-matter groups; manager approved; it stayed after he left. Trained about 4 people (2 waves of 2).
 - source: lake/companies/amadeus.md (rounds 1 and 2)

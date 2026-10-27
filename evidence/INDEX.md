@@ -26,7 +26,7 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-019 | Linux and shell claim | unverified | ask Carlos | Linux, shell, command line |
 | E-020 | Git experience claim | unverified | ask Carlos | Git, version control |
 | E-021 | Regular expressions claim | unverified | ask Carlos | regular expressions, text processing |
-| E-022 | Varicent Designer claim | unverified | ask Carlos | Varicent Designer, configuration |
+| E-022 | Varicent Designer claim | stated | yes | Varicent Designer, configuration |
 | E-023 | PostgreSQL experience claim | stated | yes | PostgreSQL, SQL, databases |
 | E-024 | BRD and process discovery claim | stated | yes | business requirements, process discovery |
 | E-025 | Visio experience claim | unverified | ask Carlos | Visio, process mapping |
@@ -54,4 +54,4 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-047 | AWS: basic, from university | stated | yes | AWS, cloud |
 | E-048 | Varicent Business Consultant bullets | stated | yes | Varicent, SQL, QA/UAT, requirements |
 | E-049 | VMware contract bullets | stated | yes | requirements, status reporting, Excel, Salesforce |
-| E-050 | Amadeus team knowledge base | stated | ask Carlos | knowledge management, documentation, training |
+| E-050 | Amadeus team knowledge base | stated | yes | knowledge management, documentation, training |
