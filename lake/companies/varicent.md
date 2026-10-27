@@ -3,7 +3,7 @@ All lines under Role through Limits are `stated` (interviews 2026-10-27, raw/int
 Naming (Carlos, 2026-10-27, round 2): the employer is Varicent. "Barisant" was a misheard placeholder from round 1 dictation and is not the company name. The software product it sells has a different name that Carlos has not given; do not assume the product name. E-009 (Varicent role) and E-022 (Varicent Designer) can now be tied to this employer, still `stated` until a document exists.
 
 ## Role and dates
-- [stated] Title (Carlos, 2026-10-27, typed): business analyst. His CV example uses "Business Consultant" for the same job; use whichever he picks per target, never both on one document. Full-time. A Canadian company.
+- [stated] Title (Carlos, 2026-10-27, typed, final): Business Consultant (he first called it business analyst in the interview). Full-time. A Canadian company.
 - [stated] August 2025 to May 2026 (Carlos, typed 2026-10-27; matches his CV example). About 9 months. Exact days Unknown.
 - [stated] Found through a referral, while looking for work after Snowflake.
 - Reason for leaving: not recorded here; see the git-ignored transcript.
