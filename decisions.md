@@ -27,3 +27,4 @@
 - 2026-10-27 KEPT: Spanish is native (Carlos: same as fluent); supersedes the 2026-10-26 "fluent" wording. English stays B2 until he says otherwise. The Snowflake "YC" item is dropped, not a claim.
 - 2026-10-27 KEPT: His CV example is a source to check, not proof. CV-only skills (amber in `audits/cv-skills-check-2026-10-27.md`) need his yes before any CV uses them.
 - 2026-10-27 KEPT: CV skills answered by Carlos: Tableau, SQL Server, Salesforce (Data Loader unconfirmed), LEAD University, Cisco IT Essentials, AWS (exposure only) are `stated` (E-042 to E-047). PostgreSQL stays project-only; MySQL, Azure and Spark are not claimed. Spanish is native (E-041 updated).
+- 2026-10-27 KEPT: Carlos confirmed Salesforce Data Loader at VMware and Amadeus only (not Snowflake) and that the CV's Varicent and VMware bullets are true (E-043, E-048, E-049). PostgreSQL stays out of the Varicent bullet.

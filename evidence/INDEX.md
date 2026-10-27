@@ -47,8 +47,10 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-040 | English level B2 | stated | yes | English, communication |
 | E-041 | Spanish native | stated | yes | Spanish, bilingual |
 | E-042 | Tableau (Amadeus, Snowflake) | stated | yes | Tableau |
-| E-043 | Salesforce at Amadeus, VMware, Snowflake (Data Loader unconfirmed) | stated | yes | Salesforce |
+| E-043 | Salesforce (3 jobs); Data Loader at VMware and Amadeus | stated | yes | Salesforce, Data Loader |
 | E-044 | SQL Server (Snowflake) | stated | yes | SQL Server, SQL |
 | E-045 | LEAD University: Data Science Engineering | stated | yes | education, data science |
 | E-046 | Cisco Networking Academy: IT Essentials | stated | yes | certificate, IT |
 | E-047 | AWS: basic, from university | stated | yes | AWS, cloud |
+| E-048 | Varicent Business Consultant bullets | stated | yes | Varicent, SQL, QA/UAT, requirements |
+| E-049 | VMware contract bullets | stated | yes | requirements, status reporting, Excel, Salesforce |
