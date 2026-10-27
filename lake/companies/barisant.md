@@ -6,7 +6,7 @@ Transcription note: the company name was dictated and spelled aloud ("at pairs a
 - [stated] Title: business analyst or associate business analyst (he is not sure which). Full-time. A Canadian company.
 - [stated] About August 2025 to about 1 May 2026 ("something like that"; he said he does not remember exact dates). About 9 months. Exact dates Unknown.
 - [stated] Found through a referral, while looking for work after Snowflake.
-- Reason for leaving (round 2): personal health reasons; details only in the git-ignored transcript.
+- Reason for leaving: not recorded here; see the git-ignored transcript.
 
 ## What the company and the work were
 - [stated] The company sells a software solution. Carlos worked as a business analyst inside client projects: analysed the client's business needs, understood them, and fitted the product to them. The implementation used SQL and data pipelines and workflows inside the tool, with a lot of SQL and ETL/ELT for data transformation.
