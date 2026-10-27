@@ -2,7 +2,7 @@
 Source: raw/2026-10-12-vision-dump.md. Rewritten by Claudio · Career PM, 2026-10-12.
 
 ## What Carlos wants
-A skills-first career system, not a CV factory. One private "skills lake" (everything he knows, does not know, his limits, work history at Amadeus, Barisant, Snowflake, VMware and others, solo agent projects). Agents read the lake; the CV, cover letter and portfolio are outputs generated on demand, not the goal.
+A skills-first career system, not a CV factory. One private "skills lake" (everything he knows, does not know, his limits, work history at Amadeus, Varicent, Snowflake, VMware and others, solo agent projects). Agents read the lake; the CV, cover letter and portfolio are outputs generated on demand, not the goal.
 
 ## Four helpers he described
 1. **Job scout:** searches for full-time roles that fit; tells him fit and whether he'd like it; on his yes, drafts a tailored CV from the lake. Target: a stable job paying 1.6 million colones or more (period and gross/net to confirm).

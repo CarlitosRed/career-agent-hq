@@ -8,13 +8,13 @@
 | T-006 | Claude · Truth Reviewer | Review panel: 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs | T-004, T-005 |
 
 ## Interview rounds (lake in `lake/companies/`, all `stated`)
-- Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1, Barisant r1.
-- Next: Snowflake r2 (scale, time saved by the Python work, a reference, exact months, the "YC" document check that Carlos could not identify) and Barisant r2 (company spelling, whether Varicent is the product it sells, public-safe, exact title and dates, why he left, team size, reference). Then Varicent evidence E-009 and E-022 can be tied to an employer.
+- Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Varicent r1-2 (employer name is Varicent; "Barisant" was misheard).
+- Open after r2: the Snowflake "YC" document check (reworded, unanswered) and a Snowflake reference; Varicent exact title, dates and product name. E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake ended about May 2025.
 - Rule: never write health details in the repo; they stay in git-ignored `raw/interviews/`.
 
 ## Still open for Carlos
 1. Put current CV (any format) in `raw/` (Carlos: later). LinkedIn has no existing text.
-2. Exact employers, titles, dates: all `stated`, several Unknown (Snowflake months, Barisant dates and title, Amadeus months).
-3. Public-safe answers still missing: Barisant. (Sykes, Amadeus, VMware, Snowflake: see each lake file header.)
+2. Exact employers, titles, dates: all `stated`, several Unknown (Snowflake start month, Varicent dates and title, Amadeus months).
+3. Public-safe: Varicent yes. (Sykes, Amadeus, VMware, Snowflake: see each lake file header.)
 4. Which legacy tools (SQL, Python, Power BI, Salesforce, Workday...) were used professionally: now mostly covered by the lake; confirm gaps in the CV step.
 5. Repo is public until about 2026-11-02, when Carlos plans to make it private (`decisions.md` 2026-10-26; exposure audit in `audits/`).
