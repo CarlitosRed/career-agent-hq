@@ -43,7 +43,7 @@ Carlos answers yes/no per amber line (one word each). Yes becomes a `stated` evi
 | MySQL | "no, or yes on Snowflake" (ambiguous) | NOT claimed until he picks one |
 | SQL Server | yes, Snowflake | E-044 |
 | Tableau | yes, Amadeus and Snowflake | E-042 |
-| Salesforce Data Loader | "Salesforce yes on Amadeus, VMware and Snowflake" | E-043 (my reading as Data Loader, flagged) |
+| Salesforce Data Loader | "Salesforce yes on Amadeus, VMware and Snowflake" | E-043 as Salesforce only; Data Loader not claimed until he confirms |
 | Spark | not really, a little knowledge | NOT claimed (E-013 stays unverified) |
 | AWS | a little from university | E-047, exposure only |
 | Azure | no answer | NOT claimed |

@@ -46,8 +46,8 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-039 | Per-vendor GitHub accounts | verified / stated | yes | identity, audit trail |
 | E-040 | English level B2 | stated | yes | English, communication |
 | E-041 | Spanish native | stated | yes | Spanish, bilingual |
-| E-042 | Tableau (Amadeus, Snowflake) | stated | yes | Tableau, reporting |
-| E-043 | Salesforce Data Loader (Amadeus, VMware, Snowflake) | stated | yes | Salesforce, data import |
+| E-042 | Tableau (Amadeus, Snowflake) | stated | yes | Tableau |
+| E-043 | Salesforce at Amadeus, VMware, Snowflake (Data Loader unconfirmed) | stated | yes | Salesforce |
 | E-044 | SQL Server (Snowflake) | stated | yes | SQL Server, SQL |
 | E-045 | LEAD University: Data Science Engineering | stated | yes | education, data science |
 | E-046 | Cisco Networking Academy: IT Essentials | stated | yes | certificate, IT |
