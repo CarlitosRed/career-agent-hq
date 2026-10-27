@@ -1,6 +1,6 @@
 # Snowflake: Partner Process Specialist
 All lines `stated` (interview 2026-10-27, raw/interviews/2026-10-27-snowflake-round1.md, voice dictation). None verified. Public-safe: yes (Carlos: "okay to be on the CV and on LinkedIn").
-Transcription note: the dictation wrote "Claude phone requests"; from context it means cloud fund requests. Carlos should confirm.
+Transcription note: the dictation wrote "Claude phone requests"; Carlos confirmed 2026-10-27 it means cloud fund requests ("cloud, like on the sky").
 
 ## Role and dates
 - [stated] Title: Partner Process Specialist, the same title throughout. Full-time employment.
@@ -28,4 +28,4 @@ Transcription note: the dictation wrote "Claude phone requests"; from context it
 Closest match so far to AI ops work: a recurring data process he found manual and automated himself, with SQL, Python and a system of record, plus partner and contract coordination, independent and remote. Do not claim engineering depth, a team lead role, or any savings number.
 
 ## Still open
-Confirm "cloud fund requests"; volume and dollar scale (keep partner names out); what the "YC" document check is; time saved by Python; whether the Python work exists anywhere to show; a reference (not asked yet); exact start and end months; Snowhouse versus Snowflake notebooks use (E-018).
+Volume and dollar scale (keep partner names out); what the "YC" document check is; time saved by Python; whether the Python work exists anywhere to show; a reference (not asked yet); exact start and end months; Snowhouse versus Snowflake notebooks use (E-018).
