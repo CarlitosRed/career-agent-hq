@@ -8,7 +8,7 @@
 | T-006 | Claude · Truth Reviewer | Review panel: 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs | T-004, T-005 |
 
 ## Interview rounds (lake in `lake/companies/`, all `stated`)
-- Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1, Barisant r1 (PR #16 pending Carlos's approval at the time of writing).
+- Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1, Barisant r1.
 - Next: Snowflake r2 (scale, time saved by the Python work, a reference, exact months, the "YC" document check that Carlos could not identify) and Barisant r2 (company spelling, whether Varicent is the product it sells, public-safe, exact title and dates, why he left, team size, reference). Then Varicent evidence E-009 and E-022 can be tied to an employer.
 - Rule: never write health details in the repo; they stay in git-ignored `raw/interviews/`.
 
