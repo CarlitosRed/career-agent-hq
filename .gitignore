@@ -2,3 +2,5 @@ raw/
 *.pdf
 *.docx
 .env*
+
+work/
