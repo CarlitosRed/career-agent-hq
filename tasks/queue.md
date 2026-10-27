@@ -15,10 +15,8 @@
 ## Still open for Carlos
 1. Current CV example received 2026-10-27 (`raw/cv/Carlos_Redondo_TransUnion_Data_Science_Analytics_Analyst_CV.pdf`, git-ignored; it is a targeted CV for one employer, so a source to check, not proof). LinkedIn has no existing text.
    **Conflicts between the CV example and the interviews (Carlos to settle before T-004):**
-   - Snowflake dates: CV Dec 2024 to Jul 2025; interviews January 2024 to about May 2025. VMware ended Jan 2024 per both.
+   - Settled 2026-10-27 by Carlos: Snowflake Dec 2024 to Jul 2025, Spanish native, Varicent title Business Consultant (see `decisions.md`). Skills check: `audits/cv-skills-check-2026-10-27.md`; amber lines await his yes/no.
    - Snowflake tools: CV says Salesforce, Excel, SQL, Salesforce Data Loader; interviews say Snowhouse SQL, Workday, Excel, Python, notebooks, an internal partner system. No Python on the CV's Snowflake bullets.
-   - Spanish: CV says "Native"; decision 2026-10-26 says fluent. English: CV B2+, evidence E-040 says B2.
-   - Varicent title: "Business Consultant" on the CV, business analyst in the interview.
    - CV skills the lake does not cover yet: Tableau, PostgreSQL, MySQL, SQL Server, R, Spark, AWS/Azure exposure, LEAD University degree (50%+, GPA 4.01), Cisco IT Essentials, "5+ years" summary. All need a stated/verified evidence entry before use.
 2. Exact employers, titles, dates: all `stated`, several Unknown (Snowflake start month, Varicent dates and title, Amadeus months).
 3. Public-safe: Varicent yes. (Sykes, Amadeus, VMware, Snowflake: see each lake file header.)

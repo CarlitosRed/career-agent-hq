@@ -4,7 +4,7 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 
 ## Role and dates
 - [stated] Title: Partner Process Specialist, the same title throughout. Full-time employment.
-- [stated] January 2024 to about May 2025 (about 1 year 4 months; round 1 had said mid-2025, and he corrected "2025" to "2024" for the start). Exact months Unknown. Round 2 he first said "beginning of 2025" (round 1: mid-2025); Carlos then settled it (2026-10-27, after the transcript): ended about May 2025, so about 1 year 4 months. Start January 2024 (he corrected himself twice). Exact days Unknown. Same title the whole time (round 2).
+- [stated] December 2024 to July 2025 (Carlos, typed 2026-10-27: "use the ones on the CV"; about 8 months). This supersedes the interview dates (January 2024 to about May 2025; round 1 mid-2025). Use the CV dates on every document. Exact months Unknown. Round 2 he first said "beginning of 2025" (round 1: mid-2025); Carlos then settled it (2026-10-27, after the transcript): ended about May 2025, so about 1 year 4 months. Start January 2024 (he corrected himself twice). Exact days Unknown. Same title the whole time (round 2).
 - [stated] Reached through a recruiter who contacted him; he applied. He believes he was selected for his data engineering background.
 - [stated] Reason for leaving: he could not keep up his performance at the time and the company and he agreed to part ways. He did not dislike the job and calls it one of his best. (Personal circumstances are in the git-ignored transcript only.)
 
