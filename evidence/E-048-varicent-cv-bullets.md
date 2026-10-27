@@ -1,0 +1,13 @@
+# E-048 Varicent: Business Consultant bullets (Aug 2025 to May 2026)
+- level: stated (Carlos, chat, 2026-10-27: the CV bullets "are true, so feel free to add them"; no artifact)
+- public-safe: yes (employer and tools are on his own CV; Carlos cleared "Varicent")
+- skill tags: Varicent, SQL, root-cause analysis, QA/UAT, requirements, documentation
+- what happened: Carlos confirmed the three Varicent bullets of his CV example. Not all appeared in interviews (QA/UAT, reconciliation did not). PostgreSQL is NOT claimed here: he said PostgreSQL was only on the PO Reader project.
+- source: CV example in git-ignored `raw/cv/`; Carlos's typed confirmation 2026-10-27; interviews `lake/companies/varicent.md`
+- CV-ready bullets:
+  - Investigated configuration and data discrepancies using SQL and Excel, performed root-cause analysis, reconciled results, and validated outputs during QA/UAT.
+  - Built and tested imports, tables, calculation rules, and workflow components; documented expected results, testing evidence, and repeatable validation/support procedures.
+  - Partnered with clients, business users, and technical teams to understand requirements, reproduce issues, communicate blockers, and align solutions with business needs.
+- how to verify: a colleague reference (he says two people can vouch). No document.
+- limit: title is Business Consultant; no PostgreSQL, no numbers, no seniority or lead role.
+- signed: Claudio · Career PM (Claude), 2026-10-27

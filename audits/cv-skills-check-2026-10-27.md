@@ -43,10 +43,14 @@ Carlos answers yes/no per amber line (one word each). Yes becomes a `stated` evi
 | MySQL | "no, or yes on Snowflake" (ambiguous) | NOT claimed until he picks one |
 | SQL Server | yes, Snowflake | E-044 |
 | Tableau | yes, Amadeus and Snowflake | E-042 |
-| Salesforce Data Loader | "Salesforce yes on Amadeus, VMware and Snowflake" | E-043 as Salesforce only; Data Loader not claimed until he confirms |
+| Salesforce Data Loader | "Salesforce yes on Amadeus, VMware and Snowflake" | E-043: later confirmed Data Loader at VMware and Amadeus only (not Snowflake) |
 | Spark | not really, a little knowledge | NOT claimed (E-013 stays unverified) |
 | AWS | a little from university | E-047, exposure only |
 | Azure | no answer | NOT claimed |
 | LEAD University | yes | E-045 |
 | Cisco IT Essentials | yes | E-046 |
-Still unanswered: the Varicent and VMware bullets (QA/UAT, PostgreSQL root-cause, coordinating Data/BI workstreams).
+
+
+## Later answers (typed, 2026-10-27)
+- Data Loader: yes at VMware and Amadeus, "and that's it" (E-043).
+- CV bullets for Varicent and VMware are true, add them: E-048, E-049. PostgreSQL left out of the Varicent bullet (project-only, his earlier answer).

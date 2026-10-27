@@ -1,0 +1,12 @@
+# E-049 VMware (contract): Business Analyst / Partner Operations bullets (Aug 2023 to Jan 2024)
+- level: stated (Carlos, chat, 2026-10-27: the CV bullets "are true, so feel free to add them"; no artifact)
+- public-safe: yes (employer on his own CV; see `lake/companies/vmware.md` header)
+- skill tags: requirements, status reporting, Excel, Salesforce, data quality
+- what happened: Carlos confirmed the two VMware bullets of his CV example. The coordination wording did not appear in interviews; Excel, Salesforce and reports did.
+- source: CV example in git-ignored `raw/cv/`; Carlos's typed confirmation 2026-10-27
+- CV-ready bullets:
+  - Coordinated Data, BI, and Analytics workstreams, including requirements sessions, priorities, status reporting, and deliverable follow-up.
+  - Extracted and cleansed data in Excel for mass Salesforce imports, validating data quality and reporting accuracy.
+- how to verify: a colleague reference. No document.
+- limit: no team size, lead role or numbers. Dates Aug 2023 to Jan 2024 are from his CV (the interview said mid-2023).
+- signed: Claudio · Career PM (Claude), 2026-10-27
