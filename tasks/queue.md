@@ -2,7 +2,7 @@
 
 | ID | Owner | Task | Needs |
 | --- | --- | --- | --- |
-| T-009 | Claude · Market Scout | Re-rank targets with `jobs/scoring-rubric.md`; salary ideally above 1.6M colones/month, English B2 | Unblocked |
+| T-009 | Claude · Market Scout | Done 2026-10-27: `jobs/targets-ranked-2026-10-27.md` (top: AI ops 3.85, agent freelance 3.83; nothing at 4.0, no APPLY today). Follow-ups: English test result, one public fictional-data agent+evals sample, reconcile E-009..E-025 with the lake | Carlos picks |
 | T-004 | Writer (Claude drafts, another Claude reviews) | Draft CV v1 (2 variants) from verified/stated evidence | Item 1 and 2 below |
 | T-005 | Writer (same) | Build LinkedIn from scratch: headline, About, Experience, Featured. Drafts only; Carlos creates the profile | Interview rounds done + Carlos says the "who I am" picture is ready |
 | T-006 | Claude · Truth Reviewer | Review panel: 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs | T-004, T-005 |
