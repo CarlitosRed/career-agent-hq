@@ -35,3 +35,18 @@ Green = Carlos told us in an interview. Amber = CV only, never mentioned in an i
 
 ## Next
 Carlos answers yes/no per amber line (one word each). Yes becomes a `stated` evidence entry; no stays off every CV. The Snowflake bullets get rewritten from the interviews (Python, notebooks, fund process), not the CV.
+
+## Carlos's answers (typed, 2026-10-27)
+| Item | Answer | Result |
+| --- | --- | --- |
+| PostgreSQL | only on the PO Reader project | no job claim; project use stays under E-007/E-008 |
+| MySQL | "no, or yes on Snowflake" (ambiguous) | NOT claimed until he picks one |
+| SQL Server | yes, Snowflake | E-044 |
+| Tableau | yes, Amadeus and Snowflake | E-042 |
+| Salesforce Data Loader | "Salesforce yes on Amadeus, VMware and Snowflake" | E-043 (my reading as Data Loader, flagged) |
+| Spark | not really, a little knowledge | NOT claimed (E-013 stays unverified) |
+| AWS | a little from university | E-047, exposure only |
+| Azure | no answer | NOT claimed |
+| LEAD University | yes | E-045 |
+| Cisco IT Essentials | yes | E-046 |
+Still unanswered: the Varicent and VMware bullets (QA/UAT, PostgreSQL root-cause, coordinating Data/BI workstreams).
