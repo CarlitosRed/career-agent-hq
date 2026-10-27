@@ -9,11 +9,17 @@
 
 ## Interview rounds (lake in `lake/companies/`, all `stated`)
 - Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Varicent r1-2 (employer name is Varicent; "Barisant" was misheard).
-- Open after r2: the Snowflake "YC" document check (reworded, unanswered) and a Snowflake reference; Varicent exact title, dates and product name. E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake ended about May 2025.
+- Open after r2: a Snowflake reference; Varicent product name. "YC" dropped by Carlos 2026-10-27. Varicent is settled: business analyst, Aug 2025 to May 2026 (matches his CV example). E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake ended about May 2025.
 - Rule: never write health details in the repo; they stay in git-ignored `raw/interviews/`.
 
 ## Still open for Carlos
-1. Put current CV (any format) in `raw/` (Carlos: later). LinkedIn has no existing text.
+1. Current CV example received 2026-10-27 (`raw/cv/Carlos_Redondo_TransUnion_Data_Science_Analytics_Analyst_CV.pdf`, git-ignored; it is a targeted CV for one employer, so a source to check, not proof). LinkedIn has no existing text.
+   **Conflicts between the CV example and the interviews (Carlos to settle before T-004):**
+   - Snowflake dates: CV Dec 2024 to Jul 2025; interviews January 2024 to about May 2025. VMware ended Jan 2024 per both.
+   - Snowflake tools: CV says Salesforce, Excel, SQL, Salesforce Data Loader; interviews say Snowhouse SQL, Workday, Excel, Python, notebooks, an internal partner system. No Python on the CV's Snowflake bullets.
+   - Spanish: CV says "Native"; decision 2026-10-26 says fluent. English: CV B2+, evidence E-040 says B2.
+   - Varicent title: "Business Consultant" on the CV, business analyst in the interview.
+   - CV skills the lake does not cover yet: Tableau, PostgreSQL, MySQL, SQL Server, R, Spark, AWS/Azure exposure, LEAD University degree (50%+, GPA 4.01), Cisco IT Essentials, "5+ years" summary. All need a stated/verified evidence entry before use.
 2. Exact employers, titles, dates: all `stated`, several Unknown (Snowflake start month, Varicent dates and title, Amadeus months).
 3. Public-safe: Varicent yes. (Sykes, Amadeus, VMware, Snowflake: see each lake file header.)
 4. Which legacy tools (SQL, Python, Power BI, Salesforce, Workday...) were used professionally: now mostly covered by the lake; confirm gaps in the CV step.
