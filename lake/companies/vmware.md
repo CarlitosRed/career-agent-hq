@@ -1,5 +1,5 @@
 # VMware: business analyst
-All lines `stated` (interview 2026-10-26, raw/interviews/2026-10-26-vmware-round1.md). None verified. Public-safe: ask Carlos (generic wording "enterprise software company" until he says otherwise).
+All lines `stated` (interviews 2026-10-26, raw/interviews/2026-10-26-vmware-round1.md and -round2.md). None verified. Public-safe: yes (Carlos, round 2: "public safe"; VMware may be named).
 
 ## Role and dates
 - [stated] Title: Business Analyst. Mid-2023 to January 2024 (about 4 to 5 months), started right after leaving Amadeus.
@@ -23,5 +23,14 @@ All lines `stated` (interview 2026-10-26, raw/interviews/2026-10-26-vmware-round
 ## Why this matters for agentic work (PM note, not a fact about Carlos)
 Proven record of independent, remote, async work across time zones with senior stakeholders, plus data/reporting tooling (Power BI, Excel macros, Python, R). Fits AI ops / analyst-to-automation roles. Never claim engineering depth or RFP ownership beyond what he said.
 
-## Round 2 questions (open)
-What exactly the RFP work was (what he produced, for whom); one concrete report or email he was proud of and what it changed; which of his Python/R scripts he automated and what they did; whether the promotion has a document or title change; manager's role (a reference?); team size and which business function; how many RFPs or reports; any numbers (time saved, volume).
+## Round 2 (interview 2026-10-26, raw/interviews/2026-10-26-vmware-round2.md), all `stated`
+- [stated] Public-safe: yes. VMware may be named on CV and LinkedIn.
+- [stated] RFP / proposal work, his part: checked contracts, found data in internal systems, granted new licenses to the partner in the system, and filled the information into Salesforce (CRM). Who asked him (internal team or partner): not stated, Unknown. Wrote no proposal text as far as he said.
+- [stated] No specific report or email he can point to (stay too short). What his manager praised: his willingness to work and how easily he took on new tasks.
+- [stated] Python / R at VMware: nothing to claim. Round 1 mentioned using them for diagrams and scripts; treat that as incidental, do not claim automation or scripts from this job.
+- [stated] Promotion: junior to associate, no email or document. Title change still Unknown; it is a level and pay change in his words.
+- [stated] Team: partner programs. Team size: not given, Unknown. Manager was a program manager and would vouch for him (a reference). Her name and current employer stay with Carlos, not in the repo.
+- [stated] Numbers: none. Carlos declined to estimate and does not think they matter for the roles he wants. Do not invent any.
+
+## Still open
+Team size; who requested the RFP work; whether the promotion can be confirmed beyond the manager (no document).
