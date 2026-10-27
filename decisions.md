@@ -26,3 +26,4 @@
 - 2026-10-27 KEPT: Snowflake dates are Dec 2024 to Jul 2025 (Carlos: "use the ones on the CV"); supersedes the interview dates. Varicent: title Business Consultant, Aug 2025 to May 2026.
 - 2026-10-27 KEPT: Spanish is native (Carlos: same as fluent); supersedes the 2026-10-26 "fluent" wording. English stays B2 until he says otherwise. The Snowflake "YC" item is dropped, not a claim.
 - 2026-10-27 KEPT: His CV example is a source to check, not proof. CV-only skills (amber in `audits/cv-skills-check-2026-10-27.md`) need his yes before any CV uses them.
+- 2026-10-27 KEPT: CV skills answered by Carlos: Tableau, SQL Server, Salesforce (Data Loader unconfirmed), LEAD University, Cisco IT Essentials, AWS (exposure only) are `stated` (E-042 to E-047). PostgreSQL stays project-only; MySQL, Azure and Spark are not claimed. Spanish is native (E-041 updated).

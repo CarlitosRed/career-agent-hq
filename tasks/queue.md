@@ -9,7 +9,7 @@
 
 ## Interview rounds (lake in `lake/companies/`, all `stated`)
 - Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Varicent r1-2 (employer name is Varicent; "Barisant" was misheard).
-- Open after r2: a Snowflake reference; Varicent product name. "YC" dropped by Carlos 2026-10-27. Varicent is settled: business analyst, Aug 2025 to May 2026 (matches his CV example). E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake ended about May 2025.
+- Open after r2: a Snowflake reference; Varicent product name. "YC" dropped by Carlos 2026-10-27. Varicent is settled: Business Consultant, Aug 2025 to May 2026. E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake is Dec 2024 to Jul 2025.
 - Rule: never write health details in the repo; they stay in git-ignored `raw/interviews/`.
 
 ## Still open for Carlos
