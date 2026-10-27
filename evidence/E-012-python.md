@@ -1,9 +1,12 @@
 # E-012 Python experience claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: Python, automation, career history
 - what happened: Python appears in the remembered candidate profile, but there is no career résumé, code sample, project attribution, proficiency level, or work result that verifies professional use.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm professional use, proficiency, project ownership, and a representative Python example.
+- CV-ready bullet: Replaced a manual Excel process with Python scripts run in Snowflake notebooks.
 - how to verify: Carlos to supply a sanitized code sample or résumé entry.
+- update 2026-10-27: Python at Snowflake (matching scripts, notebooks) and Amadeus (analysis scripts); lake files. Not VMware (retracted in round 2).
+- limit: scripting for data work, not software engineering (decisions 2026-10-12)
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

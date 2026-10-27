@@ -4,11 +4,11 @@ Draft by Claudio · Career PM (Claude), 2026-10-27. Not reviewed, not approved, 
 ## Open before this can go out
 1. Truth review (T-006) is still to do. Counts and dates below came from the CV example and interviews, all `stated`.
 2. Employer names (Sykes, Amadeus) are `public-safe: ask Carlos`. They are real employers on his own CV; the repo goes private about 2026-11-02.
-3. Amadeus title: the CV says "Technical Support Analyst / Data Analyst"; interviews say "Technical Support Engineer, something like that" then "Data Analyst". Carlos to pick the exact wording.
+3. Amadeus title: Carlos 2026-10-27: keep his CV titles, ordered to match the interviews (Technical Support Analyst 2021 to 2022, then Data Analyst 2022 to 2023). Shown as "Data Analyst, previously Technical Support Analyst".
 4. Dates for Sykes (Jan 2020 to Apr 2021) and Amadeus (Jun 2021 to Jun 2023) come from his CV; interviews gave only "about" dates. VMware Aug 2023 to Jan 2024 is from the CV (interview said mid-2023).
 5. Nothing on this page is verified by a document. A reference list (two Varicent people, a VMware manager) is held by Carlos, not in the repo.
-6. Snowflake scale (about 200 to 300 requests, more than $1.5M per quarter) is rough; Carlos to confirm whether it covers his whole portfolio or one quarter's peak, and whether to keep both figures.
-7. Skills-line SQL has no E entry of its own (E-011 is unverified); it rests on the Snowflake and Varicent interviews.
+6. Snowflake scale settled by Carlos 2026-10-27: $1.5 million to $3 million of partner cloud funds per quarter.
+7. Skills-line SQL has no E entry of its own (E-011 is now stated); it rests on the Snowflake and Varicent interviews.
 
 ---
 
@@ -28,7 +28,7 @@ Business consultant and data analyst with more than five years across customer s
 - Built a small demo of a client's payroll calculation in the product to confirm the requirements had been understood. [L:varicent]
 
 **Partner Process Specialist | Snowflake** | Dec 2024 to Jul 2025
-- Owned the monthly process for managing partners' cloud funds: about 200 to 300 fund requests and more than $1.5 million per quarter. [L:snowflake, stated, rough]
+- Owned the monthly process for managing partners' cloud funds: $1.5 million to $3 million per quarter, about 200 to 300 fund requests. [L:snowflake, stated]
 - Pulled data from Snowhouse (SQL) and Workday, matched and linked reports that could not be joined at source, calculated the figures and entered them in the partner information system. [L:snowflake]
 - Replaced manual Excel matching, which needed updating every day through the month, with Python scripts and Snowflake notebooks that refresh the data in one run at the end of the week. [L:snowflake]
 - Led meetings with partners on stuck funds, for example funds that could not be submitted until required documents were supplied; supported contract, licensing and fund approvals. [L:snowflake]
@@ -39,14 +39,14 @@ Business consultant and data analyst with more than five years across customer s
 - Extracted and cleansed data in Excel for mass Salesforce imports, validating data quality and reporting accuracy. [E-049]
 - Checked partner contracts, found data in internal systems and granted new licenses to partners, then recorded the details in Salesforce; promoted from junior to associate level in under five months. [L:vmware]
 
-**Data Analyst, previously Technical Support (SME) | Amadeus** | Jun 2021 to Jun 2023
+**Data Analyst, previously Technical Support Analyst | Amadeus** | Jun 2021 to Jun 2023
 - Built and maintained a team knowledge base (OneNote and SharePoint, indexed like a documentation site) after the team inherited a product with no documentation; ran weekly sessions to capture new issues and documented them. [L:amadeus]
 - Proposed splitting support into subject-matter groups by strength; the manager approved it and it stayed after he left. [L:amadeus]
 - Trained about four new hires in two waves and gave feedback to them and their team leads. [L:amadeus]
 - Supported a Salesforce-based hospitality product: configured document templates mapped to each customer's Salesforce objects, managed user access and roles, worked with formulas, objects and flows. [L:amadeus]
 - As Data Analyst, analysed case data to find why some fixes were faster, using Salesforce, Python scripts and R; documented the findings in the knowledge base. [L:amadeus]
 
-**Customer Service Specialist / Floor Support (SME) | Sykes** | Jan 2020 to Apr 2021
+**Customer Service Specialist / Floor Support | Sykes** | Jan 2020 to Apr 2021
 - Handled support for a US financial-services client, then became subject-matter expert (about four months in): coached agents on complex calls and clarified customers' requests. [L:sykes]
 - Reviewed team data while the manager was on leave, found knowledge gaps driving call escalations, and reported them. [L:sykes]
 - Offered the team-lead role covering a team of 15 to 20; left for Amadeus. [L:sykes]

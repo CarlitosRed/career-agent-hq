@@ -1,9 +1,12 @@
 # E-011 SQL experience claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: SQL, databases, career history
 - what happened: SQL appears in the remembered candidate profile, but there is no work sample, query, project record, proficiency level, or employment context in the checked files.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm professional use, proficiency, and a representative SQL example before drafting.
+- CV-ready bullet: Used SQL daily for data pulls, validation and reconciliation (Snowflake, Varicent).
 - how to verify: Carlos to supply a sanitized query, project description, or résumé entry.
+- update 2026-10-27: SQL used at Snowflake (Snowhouse), at Varicent, SQL Server at Snowflake (E-044); lake files.
+- limit: no proficiency level; no database design or admin claim
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

@@ -1,9 +1,12 @@
 # E-024 BRD and process discovery claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: business requirements, process discovery, business analysis
 - what happened: Memory lists BRD/process discovery, but no requirements document, discovery record, stakeholder context, scope, or outcome was available to verify.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: identify a sanitized discovery or requirements example and the resulting decision or delivery.
+- CV-ready bullet: Ran requirements sessions with clients and stakeholders and translated processes into configured solutions.
 - how to verify: Carlos to provide a redacted BRD, process map, or résumé example.
+- update 2026-10-27: Requirements gathering and process discovery at Varicent and VMware (lake files, E-048, E-049). The word BRD was never confirmed.
+- limit: do not write BRD or claim documents; no discovery artifact exists
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

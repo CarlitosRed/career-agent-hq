@@ -13,22 +13,22 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-006 | Fictional and offline safety boundaries | verified | ask Carlos | offline testing, synthetic data, privacy |
 | E-007 | CI verification lane | verified | ask Carlos | CI, GitHub Actions, PostgreSQL |
 | E-008 | Windows demo tooling | verified | ask Carlos | Windows, PowerShell, Python, PostgreSQL |
-| E-009 | Varicent role claim | unverified | ask Carlos | Varicent, career history, consulting |
-| E-010 | Snowflake role claim | unverified | ask Carlos | Snowflake, career history, partner operations |
-| E-011 | SQL experience claim | unverified | ask Carlos | SQL, databases |
-| E-012 | Python experience claim | unverified | ask Carlos | Python, automation |
+| E-009 | Varicent role claim | stated | yes | Varicent, career history, consulting |
+| E-010 | Snowflake role claim | stated | yes | Snowflake, career history, partner operations |
+| E-011 | SQL experience claim | stated | yes | SQL, databases |
+| E-012 | Python experience claim | stated | yes | Python, automation |
 | E-013 | Spark and PySpark experience claim | unverified | ask Carlos | Spark, PySpark, data processing |
-| E-014 | Power BI experience claim | unverified | ask Carlos | Power BI, reporting |
-| E-015 | Salesforce and process operations claim | unverified | ask Carlos | Salesforce, CRM, process operations |
-| E-016 | Workday experience claim | unverified | ask Carlos | Workday, business systems |
-| E-017 | Excel experience claim | unverified | ask Carlos | Excel, spreadsheets, analysis |
-| E-018 | Snowflake notebooks claim | unverified | ask Carlos | Snowflake, notebooks, data analysis |
+| E-014 | Power BI experience claim | stated | yes | Power BI, reporting |
+| E-015 | Salesforce and process operations claim | stated | yes | Salesforce, CRM, process operations |
+| E-016 | Workday experience claim | stated | yes | Workday, business systems |
+| E-017 | Excel experience claim | stated | yes | Excel, spreadsheets, analysis |
+| E-018 | Snowflake notebooks claim | stated | yes | Snowflake, notebooks, data analysis |
 | E-019 | Linux and shell claim | unverified | ask Carlos | Linux, shell, command line |
 | E-020 | Git experience claim | unverified | ask Carlos | Git, version control |
 | E-021 | Regular expressions claim | unverified | ask Carlos | regular expressions, text processing |
 | E-022 | Varicent Designer claim | unverified | ask Carlos | Varicent Designer, configuration |
-| E-023 | PostgreSQL experience claim | unverified | ask Carlos | PostgreSQL, SQL, databases |
-| E-024 | BRD and process discovery claim | unverified | ask Carlos | business requirements, process discovery |
+| E-023 | PostgreSQL experience claim | stated | yes | PostgreSQL, SQL, databases |
+| E-024 | BRD and process discovery claim | stated | yes | business requirements, process discovery |
 | E-025 | Visio experience claim | unverified | ask Carlos | Visio, process mapping |
 | E-026 | Delivery scale of the agent-run project | verified | yes (numbers only) | multi-agent orchestration, release governance, CI |
 | E-027 | Public governance framework for multi-vendor AI agents | verified | yes | agent governance, release governance |
@@ -54,3 +54,4 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-047 | AWS: basic, from university | stated | yes | AWS, cloud |
 | E-048 | Varicent Business Consultant bullets | stated | yes | Varicent, SQL, QA/UAT, requirements |
 | E-049 | VMware contract bullets | stated | yes | requirements, status reporting, Excel, Salesforce |
+| E-050 | Amadeus team knowledge base | stated | ask Carlos | knowledge management, documentation, training |
