@@ -1,6 +1,6 @@
-# Barisant: associate business analyst
-All lines under Role through Limits are `stated` (interview 2026-10-27, raw/interviews/2026-10-27-barisant-round1.md, voice dictation). None verified. Public-safe (round 2): Carlos said "it is safe for public" and that it is called Varicent. Which name is the employer and which is the product is still unconfirmed (see Still open), so keep "Barisant" out of public copy until he confirms; "Varicent" is cleared.
-Transcription note: the company name was dictated and spelled aloud ("at pairs and with a V"); the dictation also wrote "Bearson". "Barisant" is the spelling already in the repo and is not confirmed. His answer to the Varicent question came out garbled ("Bearson is the same as Bearson"); see Still open.
+# Varicent: associate business analyst
+All lines under Role through Limits are `stated` (interviews 2026-10-27, raw/interviews/2026-10-27-barisant-round1.md and -round2.md, voice dictation; raw file names keep the old placeholder). None verified. Public-safe: yes (Carlos: "it is safe for public").
+Naming (Carlos, 2026-10-27, round 2): the employer is Varicent. "Barisant" was a misheard placeholder from round 1 dictation and is not the company name. The software product it sells has a different name that Carlos has not given; do not assume the product name. E-009 (Varicent role) and E-022 (Varicent Designer) can now be tied to this employer, still `stated` until a document exists.
 
 ## Role and dates
 - [stated] Title: business analyst or associate business analyst (he is not sure which). Full-time. A Canadian company.
@@ -22,11 +22,11 @@ Transcription note: the company name was dictated and spelled aloud ("at pairs a
 
 ## Limits, likes, dislikes
 - [stated] Liked: flexibility in hours and in managing when to do tasks; the office location (dictated as "we work location"; whether it was a WeWork space is unconfirmed). Hybrid; the company also sent staff to client sites, but he was never given that option.
-- [stated] Compared with Snowflake: he preferred Snowflake because he owned a specific process there. At Barisant there were several business consultants.
+- [stated] Compared with Snowflake: he preferred Snowflake because he owned a specific process there. At Varicent there were several business consultants.
 - [stated] Hardest part: a personal difficulty during that period (details in the git-ignored transcript only).
 
 ## Why this matters for agentic work (PM note, not a fact about Carlos)
 Requirements gathering with clients, translating business processes (payroll) into data workflows, SQL and ETL/ELT, and demoing to confirm understanding. This is a plausible fit for solution or implementation analyst roles and to scoping agent workflows with a client. Never claim consulting seniority, a client-facing lead role, or Varicent expertise beyond what he said.
 
 ## Still open
-Round 2 answer was ambiguous: "Varicent is the name and the product has another name." Confirm in one line: is the employer called Varicent (with Barisant a spelling or former name), or is Barisant the employer and Varicent the product? Then E-009 and E-022 can be tied to this job. Still unanswered: spelling, exact title, start and end dates; number of clients; what "the tool" does day to day (keep vendor and client names out until public-safe is answered).
+Product name (Carlos said it differs from the employer name; not given); spelling check on "Varicent" is not needed. Still unanswered: exact title, start and end dates; number of clients; what "the tool" does day to day.

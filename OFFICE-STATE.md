@@ -24,7 +24,7 @@ Market Scout feeds target titles and keywords into the Writer's brief.
 - Job tracker already running in Codex (Google Sheets, workbook in Codex memory). Do not duplicate it.
 
 ## Status (2026-10-27)
-- Interview lake on master: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Barisant r1-2 (all `stated`; r2 notes land in the next PR). Evidence E-001 to E-041; framework pin v0.9.2 with gate CI.
+- Interview lake on master: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Varicent r1-2 (file was `barisant`; the name was misheard) (all `stated`; r2 notes land in the next PR). Evidence E-001 to E-041; framework pin v0.9.2 with gate CI.
 - Gate is in single-vendor mode (Codex lapsed): every PR needs a separate Claude subagent review plus Carlos's typed approval, then `gate.py merge` from a v0.9.2 clone. Branch must start with `claude/` and the PR needs a `tier-1` label. Revert `cross_vendor` to true when Codex returns.
-- Open work: see `tasks/queue.md` (done tasks dropped 2026-10-27). Next action: Carlos confirms Barisant/Varicent naming and the Snowflake end date, then T-009.
+- Open work: see `tasks/queue.md` (done tasks dropped 2026-10-27). Next action: T-009 re-rank targets, then CV once Carlos drops his current CV in `raw/`.
 - Handoff for the next chat: `HANDOFF-2026-10-27.md`.

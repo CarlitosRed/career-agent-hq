@@ -4,7 +4,7 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 
 ## Role and dates
 - [stated] Title: Partner Process Specialist, the same title throughout. Full-time employment.
-- [stated] Beginning of 2024 to mid-2025 (about 1.5 years; he corrected "2025" to "2024" for the start). Exact months Unknown. CONFLICT: round 2 he said it ended "at the beginning of 2025" (about 1 year), round 1 said mid-2025. Start stays January 2024 (he corrected himself twice). End date: ask Carlos, do not use until settled. Same title the whole time (round 2).
+- [stated] January 2024 to about May 2025 (about 1 year 4 months; round 1 had said mid-2025, and he corrected "2025" to "2024" for the start). Exact months Unknown. Round 2 he first said "beginning of 2025" (round 1: mid-2025); Carlos then settled it (2026-10-27, after the transcript): ended about May 2025, so about 1 year 4 months. Start January 2024 (he corrected himself twice). Exact days Unknown. Same title the whole time (round 2).
 - [stated] Reached through a recruiter who contacted him; he applied. He believes he was selected for his data engineering background.
 - [stated] Reason for leaving: he could not keep up his performance at the time and the company and he agreed to part ways. He did not dislike the job and calls it one of his best. (Personal circumstances are in the git-ignored transcript only.)
 
@@ -29,4 +29,4 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 Closest match so far to AI ops work: a recurring data process he found manual and automated himself, with SQL, Python and a system of record, plus partner and contract coordination, independent and remote. Do not claim engineering depth, a team lead role, or any savings number.
 
 ## Still open
-End month (conflict above); exact start month; what the "YC" document check is (round 2: Carlos did not understand the question, reword it); whether the Python work exists anywhere to show; a reference (not answered in round 2); scale basis (all funds vs one quarter).
+Exact start month and end day; what the "YC" document check is (round 2: Carlos did not understand the question, reword it); whether the Python work exists anywhere to show; a reference (not answered in round 2); scale basis (all funds vs one quarter).
