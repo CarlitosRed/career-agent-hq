@@ -1,9 +1,12 @@
 # E-022 Varicent Designer claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27: "it was varicent designer"; upgraded from unverified; no artifact)
+- public-safe: yes (tool on his own CV; Varicent cleared)
 - skill tags: Varicent Designer, incentive compensation, configuration
-- what happened: Memory lists Varicent Designer, but no configuration artifact, role record, version, proficiency level, or result was available to verify the scope of this experience.
+- what happened: Carlos named Varicent Designer as the tool he used at Varicent (typed 2026-10-27). Which parts of the E-048 work were done in Designer is inferred, not stated.
 - source: rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm the Varicent Designer work performed and provide a sanitized configuration or project example.
-- how to verify: Carlos to share a non-sensitive example and clarify ownership and dates.
+- CV-ready bullet: Built and tested imports, tables, calculation rules and workflow components in Varicent Designer.
+- how to verify: a Varicent colleague reference (two people can vouch); no artifact exists.
+- update 2026-10-27: Carlos named Varicent Designer as the tool he used at Varicent.
+- limit: no version, no certification, no claim of incentive-compensation design beyond E-048
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27
