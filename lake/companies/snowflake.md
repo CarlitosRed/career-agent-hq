@@ -16,7 +16,7 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 - [stated] Tools: SQL on Snowhouse, Workday, Excel, Python, the internal partner information system.
 
 ## Results
-- [stated] End of fiscal year: he stayed a full day entering every pending fund request in the system, so the backlog was clean and the budget was less affected. Colleagues were impressed. He did it while travelling, and everyone knew. Scale (round 2): roughly 200 to 300 fund requests and more than $1.5 million per quarter. Stated as rough; whether this was his whole portfolio or one quarter's peak is Unknown.
+- [stated] End of fiscal year: he stayed a full day entering every pending fund request in the system, so the backlog was clean and the budget was less affected. Colleagues were impressed. He did it while travelling, and everyone knew. Scale: roughly 200 to 300 fund requests; volume managed was $1.5 million to $3 million per quarter (Carlos, typed 2026-10-27; the dictation had said "more than $1.5 million"). That is the volume of partner cloud funds he managed per quarter.
 - [stated] Freedom to choose any tool or solution and to launch his own projects, as long as the work got done.
 
 ## Limits, likes, dislikes
@@ -29,4 +29,4 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 Closest match so far to AI ops work: a recurring data process he found manual and automated himself, with SQL, Python and a system of record, plus partner and contract coordination, independent and remote. Do not claim engineering depth, a team lead role, or any savings number.
 
 ## Still open
-Exact start month and end day; (the "YC" document check was dropped by Carlos 2026-10-27: he does not know where it came from; not a claim); whether the Python work exists anywhere to show; a reference (not answered in round 2); scale basis (all funds vs one quarter).
+Exact start month and end day; (the "YC" document check was dropped by Carlos 2026-10-27: he does not know where it came from; not a claim); whether the Python work exists anywhere to show; a reference (not answered in round 2).

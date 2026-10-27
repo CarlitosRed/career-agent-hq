@@ -1,9 +1,12 @@
 # E-009 Varicent role claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: Varicent, career history, consulting
 - what happened: Memory describes the profile phrase “Varicent Business Consultant.” No résumé, employment record, dates, employer identity, client scope, or work sample was available to verify whether this is a job title, employer, product area, or assignment.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm whether Varicent is an employer, platform, or client assignment, plus title, dates, scope, and results.
+- CV-ready bullet: See E-048 for bullets. Title: Business Consultant.
 - how to verify: Carlos to provide a résumé or employment record and clarify the exact relationship to Varicent.
+- update 2026-10-27: Varicent Business Consultant, Aug 2025 to May 2026; employer name Varicent confirmed by Carlos 2026-10-27.
+- limit: no product name, no numbers, no lead role
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

@@ -1,9 +1,12 @@
 # E-015 Salesforce and process operations claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: Salesforce, CRM, process operations
 - what happened: Memory lists Salesforce/process operations, but no role record or project artifact verifies whether the work involved end-user operation, administration, configuration, reporting, or process design.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: specify Salesforce responsibilities and confirm scope, proficiency, dates, and outcomes.
+- CV-ready bullet: Used Salesforce at four employers; administration-level support at Amadeus.
 - how to verify: Carlos to provide a résumé entry or sanitized process/workflow example.
+- update 2026-10-27: Salesforce at Sykes (ticket tracking), Amadeus (admin-level: formulas, objects, flows, user access, roles, document templates), VMware (CRM data entry, imports), Snowflake; lake files, E-043.
+- limit: no certification; Data Loader only at VMware and Amadeus (E-043)
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

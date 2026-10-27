@@ -1,9 +1,12 @@
 # E-010 Snowflake role claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: Snowflake, career history, partner operations
 - what happened: Memory describes the profile phrase “Snowflake Partner Process Specialist.” No résumé, employment record, dates, employer identity, responsibilities, or outcome evidence was available to verify the exact role or relationship to Snowflake.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm employer, exact title, dates, responsibilities, and measurable outcomes before using this role.
+- CV-ready bullet: Partner Process Specialist, Snowflake, Dec 2024 to Jul 2025: owned the monthly partner cloud-funds process.
 - how to verify: Carlos to provide a résumé or employment record and any supporting work sample.
+- update 2026-10-27: Snowflake Partner Process Specialist, Dec 2024 to Jul 2025 (Carlos, typed 2026-10-27; lake/companies/snowflake.md).
+- limit: no team-lead claim; no engineering depth
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27

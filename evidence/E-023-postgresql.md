@@ -1,9 +1,12 @@
 # E-023 PostgreSQL experience claim
-- level: unverified
-- public-safe: ask Carlos
+- level: stated (Carlos 2026-10-27; upgraded from unverified; no artifact)
+- public-safe: yes (generic skill or employer on his own CV)
 - skill tags: PostgreSQL, SQL, databases
 - what happened: Memory associates PostgreSQL with the Varicent profile, but no prior-work database artifact, schema, query, operational responsibility, or outcome was available to verify.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Not CV-ready: confirm PostgreSQL use in prior work and provide a sanitized example of the task performed.
+- CV-ready bullet: PostgreSQL: project use only (document-AI project), not a job tool.
 - how to verify: Carlos to provide a résumé entry or non-sensitive database example.
+- update 2026-10-27: PostgreSQL as the PO Reader project database only (Carlos 2026-10-27: "PostgreSQL only on the PO Reader project"); verified project use is E-007 and E-008.
+- limit: NEVER put PostgreSQL on a job entry
 - signed: Codex · Memory Miner, 2026-10-12
+- updated: Claudio · Career PM (Claude), 2026-10-27
