@@ -3,7 +3,7 @@ Draft by Claudio · Career PM (Claude), 2026-10-27. Not reviewed, not approved, 
 
 ## Open before this can go out
 1. Truth review (T-006) is still to do. Counts and dates below came from the CV example and interviews, all `stated`.
-2. Employer names (Sykes, Amadeus) are `public-safe: ask Carlos`. They are real employers on his own CV; the repo goes private about 2026-11-02.
+2. Employer names (Sykes, Amadeus) are cleared by Carlos (2026-10-27). The repo goes private about 2026-11-02.
 3. Amadeus title: Carlos 2026-10-27: keep his CV titles, ordered to match the interviews (Technical Support Analyst 2021 to 2022, then Data Analyst 2022 to 2023). Shown as "Data Analyst, previously Technical Support Analyst".
 4. Dates for Sykes (Jan 2020 to Apr 2021) and Amadeus (Jun 2021 to Jun 2023) come from his CV; interviews gave only "about" dates. VMware Aug 2023 to Jan 2024 is from the CV (interview said mid-2023).
 5. Nothing on this page is verified by a document. A reference list (two Varicent people, a VMware manager) is held by Carlos, not in the repo.
@@ -58,6 +58,7 @@ SQL, SQL Server, Python, R, Excel, Salesforce, Salesforce Data Loader, Tableau, 
 
 **Paid freelance project, document-AI order-intake system** | Sep 2026
 - Delivered the investigation, the business logic and a prototype for a client's document-AI order-intake system. [E-051]
+
 **Program Owner, public AI-agent governance framework** | Oct 2026 (figures as of 2026-10-21; recount before sending)
 - Directed Claude and Codex agents to build a public governance framework for multi-vendor AI agent teams: 29 rules, a merge gate, a leak log and 11 tagged releases. Agents wrote the code; Carlos set goals, made recorded decisions and gave final approval on each change. [E-027, E-028]
 

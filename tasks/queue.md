@@ -3,8 +3,8 @@
 | ID | Owner | Task | Needs |
 | --- | --- | --- | --- |
 | T-009 | Claude · Market Scout | Done 2026-10-27: `jobs/targets-ranked-2026-10-27.md` (top: AI ops 3.85, agent freelance 3.83; nothing at 4.0, no APPLY today). Follow-ups: English test result, one public fictional-data agent+evals sample, reconcile E-009..E-025 with the lake | Carlos picks |
-| T-011 | Claude · Market Scout | Live job search sweep: real, open, CR/LATAM-eligible postings for the top role types in `jobs/targets-ranked-2026-10-27.md`; one file `jobs/live-leads-<date>.md`; Carlos applies himself | Running 2026-10-27 |
-| T-004 | Writer (Claude drafts, another Claude reviews) | CV v1 drafted 2026-10-27: `cv/cv-v1-variant-a-business-consultant.md`, `cv/cv-v1-variant-b-ai-operations.md`. Needs truth review, then Carlos's picks (see "Open before this can go out" in each file) | Review + Carlos |
+| T-011 | Claude · Market Scout | Live job search, weekly: sweeps in `jobs/live-leads-2026-10-27.md` (merged) and `work/` (wide sweep, `live-status-2026-10-27.md`); re-check that leads are still open; Carlos applies himself | Running; Carlos decides on a weekly schedule |
+| T-004 | Writer (Claude drafts, another Claude reviews) | CV v1 drafts in `cv/`; tailored CVs for Equifax, Zuora, Sysdig, Tebra in `work/` (reviewed); Carlos applies | Carlos sends |
 | T-005 | Writer (same) | Build LinkedIn from scratch: headline, About, Experience, Featured. Drafts only; Carlos creates the profile | Interview rounds done + Carlos says the "who I am" picture is ready |
 | T-006 | Claude · Truth Reviewer | Review panel: 1 ATS-screen reader, 1 hiring manager, 5 persona readers (manager, other applicant, CEO, recruiter, technical lead), each alone; then one rewrite constrained to evidence IDs | T-004, T-005 |
 
