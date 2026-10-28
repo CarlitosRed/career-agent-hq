@@ -56,3 +56,4 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-049 | VMware contract bullets | stated | yes | requirements, status reporting, Excel, Salesforce |
 | E-050 | Amadeus team knowledge base | stated | yes | knowledge management, documentation, training |
 | E-051 | Paid freelance project: document-AI prototype (Sep 2026) | stated | yes (generic) | freelance, document AI, prototyping |
+| E-052 | Support and analyst work years (Sykes, Amadeus) | stated | yes | customer support, technical support, data analysis |
