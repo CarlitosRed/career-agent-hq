@@ -4,9 +4,9 @@
 - skill tags: Snowflake, career history, partner operations
 - what happened: Memory describes the profile phrase “Snowflake Partner Process Specialist.” No résumé, employment record, dates, employer identity, responsibilities, or outcome evidence was available to verify the exact role or relationship to Snowflake.
 - source: C:\Users\carlo\.codex\memories\MEMORY.md:1077; rollout_summaries\2026-09-10T18-12-23-12Pv-partial_costa_rica_job_search_validation.md:8, 48
-- CV-ready bullet: Partner Process Specialist, Snowflake, Dec 2024 to Jul 2025: owned the monthly partner cloud-funds process.
+- CV-ready bullet: Partner Process Specialist, Snowflake, Jan 2024 to May 2025: owned the monthly partner cloud-funds process.
 - how to verify: Carlos to provide a résumé or employment record and any supporting work sample.
-- update 2026-10-27: Snowflake Partner Process Specialist, Dec 2024 to Jul 2025 (Carlos, typed 2026-10-27; lake/companies/snowflake.md).
+- update 2026-10-27: Snowflake Partner Process Specialist, Jan 2024 to May 2025 (Carlos, typed 2026-10-27: "i join snowflake on jan 24"; end about May 2025; lake/companies/snowflake.md).
 - limit: no team-lead claim; no engineering depth
 - signed: Codex · Memory Miner, 2026-10-12
 - updated: Claudio · Career PM (Claude), 2026-10-27

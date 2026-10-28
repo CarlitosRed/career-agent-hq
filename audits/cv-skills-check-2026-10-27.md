@@ -54,3 +54,6 @@ Carlos answers yes/no per amber line (one word each). Yes becomes a `stated` evi
 ## Later answers (typed, 2026-10-27)
 - Data Loader: yes at VMware and Amadeus, "and that's it" (E-043).
 - CV bullets for Varicent and VMware are true, add them: E-048, E-049. PostgreSQL left out of the Varicent bullet (project-only, his earlier answer).
+
+## Correction (Carlos, typed 2026-10-27, later)
+Snowflake: "i join snowflake on jan 24". Start January 2024 (supersedes the CV's Dec 2024). End about May 2025 (his earlier typed words; the CV said Jul 2025). See decisions.md.

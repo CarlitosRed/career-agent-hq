@@ -41,7 +41,7 @@ Process and data professional who directs AI agents on engineering work: Program
 - Partnered with clients, business users, and technical teams to understand requirements, reproduce issues, communicate blockers, and align solutions with business needs. [E-048]
 - Built a small demo of a client's payroll calculation in the product to confirm the requirements had been understood. [L:varicent]
 
-**Partner Process Specialist | Snowflake** | Dec 2024 to Jul 2025
+**Partner Process Specialist | Snowflake** | Jan 2024 to May 2025
 - Owned the monthly process for managing partners' cloud funds: $1.5 million to $3 million per quarter, about 200 to 300 fund requests. [L:snowflake, stated]
 - Pulled data from Snowhouse (SQL) and Workday, matched and linked reports that could not be joined at source, calculated the figures and entered them in the partner information system. [L:snowflake]
 - Replaced manual Excel matching, which needed updating every day through the month, with Python scripts and Snowflake notebooks that refresh the data in one run at the end of the week. [L:snowflake]
