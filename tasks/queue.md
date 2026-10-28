@@ -10,13 +10,13 @@
 
 ## Interview rounds (lake in `lake/companies/`, all `stated`)
 - Done: Sykes r1-3, Amadeus r1-3, VMware r1-2, Snowflake r1-2, Varicent r1-2 (employer name is Varicent; "Barisant" was misheard).
-- Open after r2: a Snowflake reference; Varicent product name. "YC" dropped by Carlos 2026-10-27. Varicent is settled: Business Consultant, Aug 2025 to May 2026. E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake is Dec 2024 to Jul 2025.
+- Open after r2: a Snowflake reference; Varicent product name. "YC" dropped by Carlos 2026-10-27. Varicent is settled: Business Consultant, Aug 2025 to May 2026. E-009 and E-022 now tie to Varicent, and E-018 can move to `stated` (evidence-writer request, not edited here). Snowflake is Jan 2024 to May 2025.
 - Rule: never write health details in the repo; they stay in git-ignored `raw/interviews/`.
 
 ## Still open for Carlos
 1. Current CV example received 2026-10-27 (`raw/cv/Carlos_Redondo_TransUnion_Data_Science_Analytics_Analyst_CV.pdf`, git-ignored; it is a targeted CV for one employer, so a source to check, not proof). LinkedIn has no existing text.
    **Conflicts between the CV example and the interviews (Carlos to settle before T-004):**
-   - Settled 2026-10-27 by Carlos: Snowflake Dec 2024 to Jul 2025, Spanish native, Varicent title Business Consultant (see `decisions.md`). Skills check: `audits/cv-skills-check-2026-10-27.md`; amber lines await his yes/no.
+   - Settled 2026-10-27 by Carlos: Snowflake Jan 2024 to May 2025 (corrected later the same day), Spanish native, Varicent title Business Consultant (see `decisions.md`). Skills check: `audits/cv-skills-check-2026-10-27.md`; amber lines await his yes/no.
    - Snowflake tools: CV says Salesforce, Excel, SQL, Salesforce Data Loader; interviews say Snowhouse SQL, Workday, Excel, Python, notebooks, an internal partner system. No Python on the CV's Snowflake bullets.
    - CV skills the lake does not cover yet: Tableau, PostgreSQL, MySQL, SQL Server, R, Spark, AWS/Azure exposure, LEAD University degree (50%+, GPA 4.01), Cisco IT Essentials, "5+ years" summary. All need a stated/verified evidence entry before use.
 2. Exact employers, titles, dates: all `stated`, several Unknown (Snowflake start month, Varicent dates and title, Amadeus months).

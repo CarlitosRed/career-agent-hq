@@ -3,7 +3,7 @@
 Signed: Claudio · Career PM (Claude), 2026-10-27. Source CV: `raw/cv/Carlos_Redondo_TransUnion_Data_Science_Analytics_Analyst_CV.pdf` (git-ignored, one targeted CV). I compared it with `lake/companies/*.md` and `evidence/INDEX.md` myself. Nothing here is `verified`; no document or repo backs these jobs.
 
 ## Settled by Carlos (typed, 2026-10-27)
-- Snowflake dates: Dec 2024 to Jul 2025 (the CV's). Supersedes the interview dates (Jan 2024 to about May 2025).
+- Snowflake dates: Dec 2024 to Jul 2025 (the CV's). Supersedes the interview dates (Jan 2024 to about May 2025). **(Superseded the same day, see "Correction" at the end: Jan 2024 to about May 2025.)**
 - Spanish: native (same as fluent, his words). English stays B2 (E-040); the CV's "B2+" needs his word.
 - Varicent title: Business Consultant. Dates Aug 2025 to May 2026.
 
@@ -54,3 +54,6 @@ Carlos answers yes/no per amber line (one word each). Yes becomes a `stated` evi
 ## Later answers (typed, 2026-10-27)
 - Data Loader: yes at VMware and Amadeus, "and that's it" (E-043).
 - CV bullets for Varicent and VMware are true, add them: E-048, E-049. PostgreSQL left out of the Varicent bullet (project-only, his earlier answer).
+
+## Correction (Carlos, typed 2026-10-27, later)
+Snowflake: "i join snowflake on jan 24". Start January 2024 (supersedes the CV's Dec 2024). End about May 2025 (his earlier typed words; the CV said Jul 2025). See decisions.md.

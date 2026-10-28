@@ -4,7 +4,7 @@ Transcription note: the dictation wrote "Claude phone requests"; Carlos confirme
 
 ## Role and dates
 - [stated] Title: Partner Process Specialist, the same title throughout. Full-time employment.
-- [stated] December 2024 to July 2025 (Carlos, typed 2026-10-27: "use the ones on the CV"; about 8 months). This supersedes the interview dates (January 2024 to about May 2025; round 1 mid-2025). Use the CV dates on every document. (Earlier interview statements: round 1 mid-2025, round 2 about May 2025; both superseded.) Same title the whole time (round 2).
+- [stated] January 2024 to about May 2025 (about 1 year 4 months). Carlos typed "i join snowflake on jan 24" on 2026-10-27; end about May 2025 is his earlier typed word (the CV example said Dec 2024 to Jul 2025, which he has now superseded). It fits the Director who hired him leaving in April 2024 and VMware ending Jan 2024. Exact days Unknown. Same title the whole time (round 2).
 - [stated] Reached through a recruiter who contacted him; he applied. He believes he was selected for his data engineering background.
 - [stated] Reason for leaving: he could not keep up his performance at the time and the company and he agreed to part ways. He did not dislike the job and calls it one of his best. (Personal circumstances are in the git-ignored transcript only.)
 
