@@ -1,5 +1,5 @@
 # Sykes (now Foundever): call center, first job
-Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-sykes-round1.md). All `stated`, none verified. Public-safe: ask Carlos (the employer's client is a US bank; its name is kept out of this repo per AGENTS.md rule 3, and stays in the git-ignored raw/ transcripts).
+Source for every line below: interview 2026-10-12 (raw/interviews/2026-10-12-sykes-round1.md). All `stated`, none verified. Public-safe: yes for the employer name Sykes (Carlos 2026-10-27: "sykes is safe"); the employer's client is a US bank and its name stays out of this repo per AGENTS.md rule 3 and stays in the git-ignored raw/ transcripts.
 
 - [stated] First job of his career, in a standard call center; company now named Foundever.
 - [stated] Approx. 2020, about one year; exact dates unknown (to fill later). Started during the COVID pandemic.

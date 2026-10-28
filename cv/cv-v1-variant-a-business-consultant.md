@@ -55,6 +55,9 @@ Business consultant and data analyst with more than five years across customer s
 SQL, SQL Server, Python, R, Excel, Salesforce, Salesforce Data Loader, Tableau, Power BI (basic), Snowflake notebooks, Workday, Varicent, QA/UAT, data reconciliation, requirements gathering, documentation, training, AWS (coursework exposure) [E-042 to E-044, E-047, E-026 to E-034, L:*]
 
 ## Projects
+
+**Paid freelance project, document-AI order-intake system** | Sep 2026
+- Delivered the investigation, the business logic and a prototype for a client's document-AI order-intake system. [E-051]
 **Program Owner, public AI-agent governance framework** | Oct 2026 (figures as of 2026-10-21; recount before sending)
 - Directed Claude and Codex agents to build a public governance framework for multi-vendor AI agent teams: 29 rules, a merge gate, a leak log and 11 tagged releases. Agents wrote the code; Carlos set goals, made recorded decisions and gave final approval on each change. [E-027, E-028]
 
