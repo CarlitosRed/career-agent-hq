@@ -5,7 +5,7 @@ Signed: Claudio · Career PM (Claude), 2026-10-28. Use a copy of the workbook on
 ## 1. Run a dev server against a copy (PowerShell)
 
 ```powershell
-cd C:\Users\carlo\dev\career-agent-hq\work\tracker
+cd C:\Users\carlo\dev\career-agent-hq\tools\tracker
 Copy-Item ..\..\work\applications-tracker.xlsx $env:TEMP\tracker-selftest.xlsx
 $env:TRACKER_XLSX = "$env:TEMP\tracker-selftest.xlsx"; $env:TRACKER_PORT = "8790"
 python -I server.py --no-browser
