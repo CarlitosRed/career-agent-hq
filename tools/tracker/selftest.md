@@ -6,7 +6,7 @@ Signed: Claudio · Career PM (Claude), 2026-10-28. Use a copy of the workbook on
 
 ```powershell
 cd C:\Users\carlo\dev\career-agent-hq\work\tracker
-Copy-Item ..\applications-tracker.xlsx $env:TEMP\tracker-selftest.xlsx
+Copy-Item ..\..\work\applications-tracker.xlsx $env:TEMP\tracker-selftest.xlsx
 $env:TRACKER_XLSX = "$env:TEMP\tracker-selftest.xlsx"; $env:TRACKER_PORT = "8790"
 python -I server.py --no-browser
 ```
