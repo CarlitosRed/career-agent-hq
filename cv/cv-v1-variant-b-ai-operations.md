@@ -21,6 +21,9 @@ Costa Rica | [email] | [phone] | [LinkedIn URL]
 Process and data professional who directs AI agents on engineering work: Program Owner of a public governance framework for multi-vendor AI agent teams (merge gate, tiered approvals, cross-vendor review, leak log). Before that, more than five years in support, partner operations, analytics and software implementation (2020 to 2026): automated a monthly partner-funds process in Python and SQL, built a team knowledge base, and validated outputs in QA/UAT. Not a software engineer: sets the review process, approves each change and keeps the evidence. [E-027, E-028, E-029, E-031, L:snowflake, L:amadeus, decisions 2026-10-12]
 
 ## Projects
+
+**Paid freelance project, document-AI order-intake system** | Sep 2026
+- Delivered the investigation, the business logic and a prototype for a client's document-AI order-intake system. [E-051]
 **Program Owner, public AI-agent governance framework** | Oct 2026 (figures as of 2026-10-21; recount before sending)
 - Directed Claude and Codex agents to build a public governance framework for multi-vendor AI agent teams: 29 rules, a merge gate, a leak log and 11 tagged releases. Agents wrote the code; Carlos set goals, made recorded decisions and gave final approval on each change. [E-027, E-028]
 - Directed agents to build a merge gate enforcing tiered approvals, exact-commit cross-vendor review, required PR evidence and secret scanning. [E-029]

@@ -55,3 +55,4 @@ All rows point to one evidence entry. “ask Carlos” means the project details
 | E-048 | Varicent Business Consultant bullets | stated | yes | Varicent, SQL, QA/UAT, requirements |
 | E-049 | VMware contract bullets | stated | yes | requirements, status reporting, Excel, Salesforce |
 | E-050 | Amadeus team knowledge base | stated | yes | knowledge management, documentation, training |
+| E-051 | Paid freelance project: document-AI prototype (Sep 2026) | stated | yes (generic) | freelance, document AI, prototyping |
